@@ -3,7 +3,7 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jpromanonet&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&layour=compact)](https://github.com/jpromanonet/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
 
 </p>
 
