@@ -3,6 +3,6 @@
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jpromanonet&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919"></p>
 
-<p align="center">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet)](https://github.com/jpromanonet/github-readme-stats)</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&layour=compact)](https://github.com/jpromanonet/github-readme-stats)
 
 <p align="center">⚡ <b>Fun fact: I'm always drinking mate!</b> ⚡</p>
