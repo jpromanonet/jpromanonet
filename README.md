@@ -3,7 +3,7 @@
 
 <hr/>
 
-<h4 align="center"><b>🥋 Code Wars Belt 🥋</b></h4>
+<h4 align="center"><b>🥋 Codewars Belt 🥋</b></h4>
 <p align="center"><img src="https://www.codewars.com/users/jpromanonet/badges/large"></ṕ>
 
 <hr/>
