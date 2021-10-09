@@ -15,16 +15,19 @@
   You can follow me here =)
 </p>
 <p align="center">
-  <a src="https://instagram.com/juanp.raven">
+  <a href="https://instagram.com/juanp.raven">
     <img src="./images/instagram.png" width="30px" height="30px">
   </a>
-  <a src="https://twitter.com/jpromanonet">
+  <a href="https://twitter.com/jpromanonet">
     <img src="./images/twitter.png" width="30px" height="30px">
   </a>
-  <a src="https://instagram.com/juanp.raven">
+  <a href="https://instagram.com/juanp.raven">
     <img src="./images/facebook.png" width="30px" height="30px">
   </a>
-  <a src="https://instagram.com/juanp.raven">
+  <a href="https://instagram.com/juanp.raven">
     <img src="./images/linkedin.png" width="30px" height="30px">
+  </a>
+  <a href="https://instagram.com/juanp.raven">
+    <img src="./images/youtube.png" width="30px" height="30px">
   </a>
 </p>
