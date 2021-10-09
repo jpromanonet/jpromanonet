@@ -14,6 +14,6 @@
 <p align="center">
   You can follow me here =)
   <a src="https://instagram.com/juanp.raven">
-    <img src="./instagram.png">
+    <img src="./images/instagram.png">
   </a>
 </p>
