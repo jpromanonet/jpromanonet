@@ -19,7 +19,7 @@
     <img src="./images/instagram.png" width="30px" height="30px">
   </a>
   <a src="https://twitter.com/jpromanonet">
-    <img src="./images/gorjeo.png" width="30px" height="30px">
+    <img src="./images/twitter.png" width="30px" height="30px">
   </a>
   <a src="https://instagram.com/juanp.raven">
     <img src="./images/facebook.png" width="30px" height="30px">
