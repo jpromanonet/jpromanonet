@@ -24,4 +24,7 @@
   <a src="https://instagram.com/juanp.raven">
     <img src="./images/facebook.png" width="30px" height="30px">
   </a>
+  <a src="https://instagram.com/juanp.raven">
+    <img src="./images/linkedin.png" width="30px" height="30px">
+  </a>
 </p>
