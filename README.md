@@ -31,3 +31,6 @@
     <img src="./images/youtube.png" width="30px" height="30px">
   </a>
 </p>
+<p>
+  For more you can check my <a href="https://linktr.ee/jpromanonet">linktree</a>
+</p>
