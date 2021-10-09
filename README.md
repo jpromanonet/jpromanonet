@@ -14,7 +14,14 @@
 <p align="center">
   You can follow me here =)
 </p>
+<p align="center">
   <a src="https://instagram.com/juanp.raven">
-    <img src="./images/instagram.png" width="40px" height="40px">
+    <img src="./images/instagram.png" width="30px" height="30px">
+  </a>
+  <a src="https://twitter.com/jpromanonet">
+    <img src="./images/gorjeo.png" width="30px" height="30px">
+  </a>
+  <a src="https://instagram.com/juanp.raven">
+    <img src="./images/instagram.png" width="30px" height="30px">
   </a>
 </p>
