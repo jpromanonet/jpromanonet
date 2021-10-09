@@ -12,7 +12,7 @@
 <p align="center">🧉 <b>Fun fact: I'm always drinking mate!</b> 🧉</p>
 <hr>
 <p align="center">
-  You can follow me here =)
+  You can follow me here :smile:
 </p>
 <p align="center">
   <a href="https://instagram.com/juanp.raven">
@@ -32,5 +32,5 @@
   </a>
 </p>
 <p align="center">
-  For more you can check my <a href="https://linktr.ee/jpromanonet">linktree</a>
+  <b>For more you can check my <a href="https://linktr.ee/jpromanonet">linktree</a></b> :smile:
 </p>
