@@ -15,7 +15,7 @@
   You can follow me here =)
 </p>
 <p align="center">
-  <a href="https://instagram.com/juanp.raven" target="_blank">
+  <a href="https://instagram.com/juanp.raven">
     <img src="./images/instagram.png" width="30px" height="30px">
   </a>
   <a href="https://twitter.com/jpromanonet">
