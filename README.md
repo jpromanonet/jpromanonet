@@ -13,6 +13,7 @@
 <hr>
 <p align="center">
   You can follow me here =)
+  <br/>
   <a src="https://instagram.com/juanp.raven">
     <img src="./images/instagram.png" width="20px" height="20px">
   </a>
