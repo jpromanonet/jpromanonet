@@ -21,13 +21,13 @@
   <a href="https://twitter.com/jpromanonet">
     <img src="./images/twitter.png" width="30px" height="30px">
   </a>
-  <a href="https://instagram.com/juanp.raven">
+  <a href="https://www.facebook.com/profile.php?id=100071847536285">
     <img src="./images/facebook.png" width="30px" height="30px">
   </a>
-  <a href="https://instagram.com/juanp.raven">
+  <a href="https://www.linkedin.com/in/jupromano/">
     <img src="./images/linkedin.png" width="30px" height="30px">
   </a>
-  <a href="https://instagram.com/juanp.raven">
+  <a href="https://www.youtube.com/channel/UCNizhFb4M6sT5UqOVOAUq1w?sub_confirmation=1">
     <img src="./images/youtube.png" width="30px" height="30px">
   </a>
 </p>
