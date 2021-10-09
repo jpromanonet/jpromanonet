@@ -32,5 +32,5 @@
   </a>
 </p>
 <p align="center">
-  <b>For more you can check my <a href="https://linktr.ee/jpromanonet">linktree</a></b> :smile:
+  <b>For more you can check my <a href="https://linktr.ee/jpromanonet">linktree</a></b>
 </p>
