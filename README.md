@@ -1,5 +1,5 @@
 <h1 align="center"><b>:wave: Hi! I'm Juan :wave:</b></h1>
-<p align="center">:computer: <b>Full Stack Developer | DevOps Engineer | Teacher</b> :computer:</p>
+<p align="center">🚀  <b>Full Stack Developer | DevOps Engineer | Teacher</b> 🚀 </p>
 <hr>
 <p align="center">
  :zap:Tech Leader at <a href="https://github.com/thebitar">The Bit</a>:zap:- :zap:Tech Leader & Mentor at <a href="https://github.com/nucba">Nucba</a>:zap: - :zap:Tutor at <a href="https://github.com/guayerd">Guayerd</a>:zap:
