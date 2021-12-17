@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img  width="100%" height="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
+  <img  width="100%" height="100px" src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
 </p>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
