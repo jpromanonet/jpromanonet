@@ -6,6 +6,10 @@
 </p>
 <hr>
 
+<p align = "center">
+ <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
+</p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
 </p>
