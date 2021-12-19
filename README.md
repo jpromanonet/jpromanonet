@@ -6,8 +6,11 @@
 </p>
 <hr>
 <p align="center">
+ 
 [![wakatime](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
+
 </p>
+
 <p align = "center">
  <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
 </p>
