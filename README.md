@@ -5,12 +5,13 @@
  :zap:Tech Leader at <a href="https://github.com/thebitar">The Bit</a>:zap:- :zap:Tech Leader & Mentor at <a href="https://github.com/nucba">Nucba</a>:zap: - :zap:Tutor at <a href="https://github.com/guayerd">Guayerd</a>:zap:
 </p>
 <hr>
-<p align="center">
-:zap:Hours I been coding since April 5th, 2019 <a href="https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1"><img src="https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg" alt="Total time coded since Apr 5 2019" /></a>:zap:
-</p>
 
 <p align = "center">
  <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
+</p>
+
+<p align="center">
+:zap:Hours I been coding since April 5th, 2019 <a href="https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1"><img src="https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg" alt="Total time coded since Apr 5 2019" /></a>:zap:
 </p>
 
 <p align="center">
