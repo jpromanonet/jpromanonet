@@ -6,7 +6,7 @@
 </p>
 <hr>
 <p align="center">
-I been coding for the last: <a href="https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1"><img src="https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg" alt="Total time coded since Apr 5 2019" /></a>
+:zap:Hours I been coding since April 5th, 2019 <a href="https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1"><img src="https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg" alt="Total time coded since Apr 5 2019" /></a>:zap:
 </p>
 
 <p align = "center">
