@@ -2,7 +2,7 @@
 <p align="center">🚀  <b>Full Stack Developer 🚀  DevOps Engineer 🚀  Teacher</b> 🚀 </p>
 <hr>
 <p align="center">
- :zap:Tech Leader at <a href="https://github.com/thebitar">The Bit</a>:zap:- :zap:Tech Leader & Mentor at <a href="https://github.com/nucba">Nucba</a>:zap: - :zap:Tutor at <a href="https://github.com/guayerd">Guayerd</a>:zap:
+ :zap:Tech Leader at <a href="https://github.com/thebitar">The Bit</a>:zap:- :zap:Tech Leader & Mentor at <a href="https://github.com/nucba">Nucba</a>:zap:
 </p>
 <hr>
 
