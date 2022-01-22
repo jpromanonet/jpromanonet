@@ -19,30 +19,27 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 :zap: Mentor at <a href="https://github.com/nucba">Nucba</a>
 
-<p align = "center">
- <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
-</p>
+## 📝 Latest Blog Posts
+
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
 
 <p align="center">
- :zap:Tech Leader at <a href="https://github.com/thebitar">The Bit</a>:zap:- :zap:Mentor at <a href="https://github.com/nucba">Nucba</a>:zap:
+ <img src="https://github-readme-stats.vercel.app/api?username=jpromanonet&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true">
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
 </p>
 
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api?username=jpromanonet&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true">
+<p align = "center">
+ <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
 </p>
-   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
 
-<p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
 <hr>
-<p align="center">
-  You can follow me here :smile:
-</p>
-
-<p align="center">
-  <b>For more you can check my <a href="https://linktr.ee/jpromanonet">linktree</a></b>
-</p>
+<p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
