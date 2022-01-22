@@ -8,9 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jpromanonet)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jupromano/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/juanp.raven/)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-Profile-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/jpromanonet/)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/jpromanonet)
-[![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=0D76A8)](https://medium.com/@thedeveloperchronicles)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
 
 <p align = "center">
