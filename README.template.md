@@ -50,6 +50,10 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ![](https://img.shields.io/badge/Code-Lisp-informational?style=flat&logo=lisp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Cobol-informational?style=flat&logo=cobol&logoColor=white&color=4AB197)
 
+<details>
+<summary>More Skills</summary>
+<br>
+
 
 ## &#x1f4c8; GitHub Stats
 
