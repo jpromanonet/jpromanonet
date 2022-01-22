@@ -4,7 +4,7 @@
  :zap:Tech Leader at <a href="https://github.com/thebitar">The Bit</a>:zap:- :zap:Mentor at <a href="https://github.com/nucba">Nucba</a>:zap:
 </p>
 
-[![Visits Badge](https://badges.pufler.dev/visits/jpromanonet/jpromanonet)](https:jpromano.net)
+[![Visits Badge](https://badges.pufler.dev/visits/jpromanonet/jpromanonet)](https://jpromano.net)
 
 <a href="https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1"><img src="https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg" alt="Total time coded since Apr 5 2019" /></a>
 
