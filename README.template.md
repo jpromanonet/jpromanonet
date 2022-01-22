@@ -105,3 +105,9 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 <hr>
 <p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
+
+## 📣 The Office's quote of the hour =)
+
+> {office_quote}
+>
+> <p>{office_character}</p>
