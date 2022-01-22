@@ -1,8 +1,4 @@
 <img src="./assets/images/cover.png"/>
-<p align="center">🚀  <b>Full Stack Developer 🚀  DevOps Engineer 🚀  Teacher</b> 🚀 </p>
-<p align="center">
- :zap:Tech Leader at <a href="https://github.com/thebitar">The Bit</a>:zap:- :zap:Mentor at <a href="https://github.com/nucba">Nucba</a>:zap:
-</p>
 
 [![Visits Badge](https://badges.pufler.dev/visits/jpromanonet/jpromanonet)](https://jpromano.net)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jpromanonet)
@@ -13,6 +9,11 @@
 
 <p align = "center">
  <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
+</p>
+
+<p align="center">🚀  <b>Full Stack Developer 🚀  DevOps Engineer 🚀  Teacher</b> 🚀 </p>
+<p align="center">
+ :zap:Tech Leader at <a href="https://github.com/thebitar">The Bit</a>:zap:- :zap:Mentor at <a href="https://github.com/nucba">Nucba</a>:zap:
 </p>
 
 <p align="center">
