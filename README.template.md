@@ -7,11 +7,14 @@
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/jpromanonet)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
 
+Hey there :wave:
+
+I'm Juan, a senior full-stack engineer, dev-ops engineer and teacher
+
 <p align = "center">
  <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
 </p>
 
-<p align="center">🚀  <b>Full Stack Developer 🚀  DevOps Engineer 🚀  Teacher</b> 🚀 </p>
 <p align="center">
  :zap:Tech Leader at <a href="https://github.com/thebitar">The Bit</a>:zap:- :zap:Mentor at <a href="https://github.com/nucba">Nucba</a>:zap:
 </p>
