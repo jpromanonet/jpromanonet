@@ -71,6 +71,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Apache-informational?style=flat&logo=apache&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-NGINX-informational?style=flat&logo=nginx&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-Node-informational?style=flat&logo=node&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Jenkins-informational?style=flat&logo=jenkins&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
