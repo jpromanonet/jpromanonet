@@ -9,7 +9,7 @@
 
 Hey there :wave:
 
-I'm Juan, a senior full-stack engineer, dev-ops engineer and teacher
+I'm Juan, a senior full-stack engineer, dev-ops engineer and teacher with robust problem-solving skills and more than 9 years of proven experience in creating and designing software solutions for different companies.
 
 <p align = "center">
  <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
