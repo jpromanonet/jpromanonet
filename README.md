@@ -24,8 +24,8 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 <br>
 
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
+
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=4AB197)
