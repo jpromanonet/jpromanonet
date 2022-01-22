@@ -38,6 +38,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ![](https://img.shields.io/badge/Code-HTML-informational?style=flat&logo=html5&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Docker-informational?style=flat&logo=docker&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-AWS-informational?style=flat&logo=aws&logoColor=white&color=4AB197)
 
 ## &#x1f4c8; GitHub Stats
 
