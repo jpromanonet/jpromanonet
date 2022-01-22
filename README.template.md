@@ -29,7 +29,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Vuex-informational?style=flat&logo=vue-js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue-js&logoColor=white&color=4AB197)
 
 ## &#x1f4c8; GitHub Stats
 
