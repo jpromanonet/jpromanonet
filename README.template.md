@@ -8,6 +8,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jpromanonet)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jupromano/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/juanp.raven/)
+[![Facebook Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=facebook&logoColor=white&color=0D76A8)](https://www.facebook.com/profile.php?id=100071847536285/)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
 
 <hr>
@@ -31,23 +32,7 @@
 <p align="center">
   You can follow me here :smile:
 </p>
-<p align="center">
-  <a href="https://instagram.com/juanp.raven">
-    <img src="./images/instagram.png" width="30px" height="30px">
-  </a>
-  <a href="https://twitter.com/jpromanonet">
-    <img src="./images/twitter.png" width="30px" height="30px">
-  </a>
-  <a href="https://www.facebook.com/profile.php?id=100071847536285">
-    <img src="./images/facebook.png" width="30px" height="30px">
-  </a>
-  <a href="https://www.linkedin.com/in/jupromano/">
-    <img src="./images/linkedin.png" width="30px" height="30px">
-  </a>
-  <a href="https://www.youtube.com/channel/UCNizhFb4M6sT5UqOVOAUq1w?sub_confirmation=1">
-    <img src="./images/youtube.png" width="30px" height="30px">
-  </a>
-</p>
+
 <p align="center">
   <b>For more you can check my <a href="https://linktr.ee/jpromanonet">linktree</a></b>
 </p>
