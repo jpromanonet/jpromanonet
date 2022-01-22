@@ -19,6 +19,16 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 :zap: Mentor at <a href="https://github.com/nucba">Nucba</a>
 
+## 📝 Latest Blog Posts
+
+<br>
+
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
+
+<br>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
 </p>
