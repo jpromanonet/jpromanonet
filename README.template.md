@@ -13,8 +13,6 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=0D76A8)](https://medium.com/@thedeveloperchronicles)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
 
-<hr>
-
 <p align = "center">
  <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
 </p>
