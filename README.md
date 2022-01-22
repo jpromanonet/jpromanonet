@@ -26,6 +26,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
+## 💼 Skills
 
 ## &#x1f4c8; GitHub Stats
 
