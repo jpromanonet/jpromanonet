@@ -3,6 +3,7 @@
 <p align="center">
  :zap:Tech Leader at <a href="https://github.com/thebitar">The Bit</a>:zap:- :zap:Mentor at <a href="https://github.com/nucba">Nucba</a>:zap:
 </p>
+<center>
 
 [![Visits Badge](https://badges.pufler.dev/visits/jpromanonet/jpromanonet)](https://jpromano.net)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jpromanonet)
@@ -13,6 +14,7 @@
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=0D76A8)](https://medium.com/@thedeveloperchronicles)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
 
+</center>
 <p align = "center">
  <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
 </p>
