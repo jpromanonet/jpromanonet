@@ -82,7 +82,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ![](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=Jira-Software&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Asana-informational?style=flat&logo=Asana&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-Linux-informational?style=flat&logo=Linux&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Tools-Bash-informational?style=flat&logo=bash&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazonweservices&logoColor=white&color=4AB197)
 
 </details>
 
