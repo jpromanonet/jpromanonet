@@ -21,8 +21,6 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 ## 📝 Latest Blog Posts
 
-<br>
-
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
