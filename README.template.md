@@ -1,12 +1,11 @@
 <img src="./assets/images/cover.png"/>
 <p align="center">🚀  <b>Full Stack Developer 🚀  DevOps Engineer 🚀  Teacher</b> 🚀 </p>
-
-[![Visits Badge](https://badges.pufler.dev/visits/jpromanonet/jpromanonet)](https:jpromano.net)
-
-<hr>
 <p align="center">
  :zap:Tech Leader at <a href="https://github.com/thebitar">The Bit</a>:zap:- :zap:Mentor at <a href="https://github.com/nucba">Nucba</a>:zap:
 </p>
+
+[![Visits Badge](https://badges.pufler.dev/visits/jpromanonet/jpromanonet)](https:jpromano.net)
+
 <hr>
 
 <p align = "center">
