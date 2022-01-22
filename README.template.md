@@ -17,6 +17,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 <p align="center">
  - :zap:Tech Leader at <a href="https://github.com/thebitar">The Bit</a>:zap: 
+ 
  - :zap:Mentor at <a href="https://github.com/nucba">Nucba</a>:zap:
 </p>
 
