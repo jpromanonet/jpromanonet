@@ -6,14 +6,12 @@
 
 [![Visits Badge](https://badges.pufler.dev/visits/jpromanonet/jpromanonet)](https:jpromano.net)
 
+<a href="https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1"><img src="https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg" alt="Total time coded since Apr 5 2019" /></a>
+
 <hr>
 
 <p align = "center">
  <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
-</p>
-
-<p align="center">
-:zap:Hours I been coding since using Wakatime <a href="https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1"><img src="https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg" alt="Total time coded since Apr 5 2019" /></a>:zap:
 </p>
 
 <p align="center">
