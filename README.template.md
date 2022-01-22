@@ -13,9 +13,7 @@ I'm Juan, a senior full-stack engineer, dev-ops engineer and teacher with robust
 
 Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
-<p align = "center">
- <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
-</p>
+## 📌 Currently working as
 
 <p align="center">
  :zap:Tech Leader at <a href="https://github.com/thebitar">The Bit</a>:zap:- :zap:Mentor at <a href="https://github.com/nucba">Nucba</a>:zap:
@@ -24,6 +22,12 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
 </p>
+
+<p align = "center">
+ <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
+</p>
+
+
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api?username=jpromanonet&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true">
