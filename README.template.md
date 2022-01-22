@@ -41,12 +41,5 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
  <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
 </p>
 
-<p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
 <hr>
-<p align="center">
-  You can follow me here :smile:
-</p>
-
-<p align="center">
-  <b>For more you can check my <a href="https://linktr.ee/jpromanonet">linktree</a></b>
-</p>
+<p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
