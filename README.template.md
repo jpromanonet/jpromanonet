@@ -46,6 +46,9 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Perl-informational?style=flat&logo=perl&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Lisp-informational?style=flat&logo=lisp&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Cobol-informational?style=flat&logo=cobol&logoColor=white&color=4AB197)
+
 
 ## &#x1f4c8; GitHub Stats
 
