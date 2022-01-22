@@ -11,6 +11,8 @@ Hey there :wave:
 
 I'm Juan, a senior full-stack engineer, dev-ops engineer and teacher with robust problem-solving skills and more than 9 years of proven experience in creating and designing software solutions for different companies.
 
+Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
+
 <p align = "center">
  <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
 </p>
