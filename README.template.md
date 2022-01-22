@@ -15,8 +15,8 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 ## 📌 Currently working as
 
-- Tech Leader at <a href="https://github.com/thebitar">The Bit</a>
-- Mentor at <a href="https://github.com/nucba">Nucba</a>
+:zap: Tech Leader at <a href="https://github.com/thebitar">The Bit</a>
+:zap: Mentor at <a href="https://github.com/nucba">Nucba</a>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
