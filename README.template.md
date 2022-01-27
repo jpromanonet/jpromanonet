@@ -98,11 +98,8 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
-</p>
-
-<p align = "center">
- <img src="https://www.codewars.com/users/jpromanonet/badges/large"/>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
+  <img width="48%" src="https://www.codewars.com/users/jpromanonet/badges/large"/>
 </p>
 
 <hr>
