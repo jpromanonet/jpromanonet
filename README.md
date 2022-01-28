@@ -22,6 +22,11 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Texty &lpar;editor de texto escrito en C&rpar;](https://jpromano.net/blog/texty-editor-de-texto-escrito-en-c/)
+- [«The Clean Coder» | Reseña literaria](https://jpromano.net/blog/the-clean-coder-resena-literaria/)
+- [Consejos para programar sanamente | Parte 2](https://jpromano.net/blog/consejos-para-programar-sanamente-parte-2/)
+- [Queriendo replicar Wolfenstein 3D en C++ | Intento N° 1](https://jpromano.net/blog/queriendo-replicar-wolfenstein-3d-en-c-intento-n-1/)
+- [Consejos para programar sanamente | Parte 1](https://jpromano.net/blog/consejos-para-programar-sanamente-parte-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
