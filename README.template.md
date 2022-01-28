@@ -97,7 +97,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
  
 </p>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=jpromanonet&bg_color=231F20&color=03A062&line=03A062&point=03A062&area=true&hide_border=false">
+<img src="https://activity-graph.herokuapp.com/graph?username=jpromanonet&bg_color=231F20&color=03A062&line=03A062&point=03A062&area=true&hide_border=true">
 <p align="center">
 
 <p align="center">
