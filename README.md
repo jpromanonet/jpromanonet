@@ -22,11 +22,6 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Texty &lpar;editor de texto escrito en C&rpar;](https://jpromano.net/blog/texty-editor-de-texto-escrito-en-c/)
-- [«The Clean Coder» | Reseña literaria](https://jpromano.net/blog/the-clean-coder-resena-literaria/)
-- [Consejos para programar sanamente | Parte 2](https://jpromano.net/blog/consejos-para-programar-sanamente-parte-2/)
-- [Queriendo replicar Wolfenstein 3D en C++ | Intento N° 1](https://jpromano.net/blog/queriendo-replicar-wolfenstein-3d-en-c-intento-n-1/)
-- [Consejos para programar sanamente | Parte 1](https://jpromano.net/blog/consejos-para-programar-sanamente-parte-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
@@ -98,11 +93,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
 
-<p align="center">
- 
-</p>
-
-<img src="https://activity-graph.herokuapp.com/graph?username=jpromanonet&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=jpromanonet&bg_color=231F20&color=03A062&line=03A062&point=03A062&area=true&hide_border=true">
 <p align="center">
 
 <p align="center">
