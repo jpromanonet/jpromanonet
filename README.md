@@ -106,8 +106,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 <p align="center">
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jpromanonet&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=jpromanonet&&show_icons=true&title_color=00fa9a&icon_color=00c87b&text_color=00fa9a&bg_color=191919&count_private=true">
 </p>
 
 <p align="center">
