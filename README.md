@@ -15,8 +15,8 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 ## 📌 Currently working as
 
-:zap: Tech Leader at <a href="https://github.com/thebitar">The Bit</a>
-:zap: Tutor at <a href="https://github.com/guayerd">Guayerd</a>
+:zap: Tech Leader at <a href="https://github.com/thebitar">The Bit</a><br/>
+:zap: Tutor at <a href="https://github.com/guayerd">Guayerd</a><br/>
 :zap: Mentor at <a href="https://github.com/alkemyTech">Alkemy Tech</a>
 
 ## 📝 Latest Blog Posts
