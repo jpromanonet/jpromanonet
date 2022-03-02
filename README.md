@@ -6,6 +6,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/juanp.raven/)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/jpromanonet)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
+[![Stack Badge](https://img.shields.io/badge/Stack_Muncher-Profile-informational?style=flat&logo=StackMuncher&logoColor=white&color=0D76A8)](https://stackmuncher.com/jpromanonet)
 
 Hey there :wave:
 
@@ -23,11 +24,11 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Instalando Linux Mint en Thinkpad L15 Gen2 &lpar;como evitar dolores de cabeza&rpar;](https://jpromano.net/blog/instalando-linux-mint-en-thinkpad-l15-gen2-como-evitar-dolores-de-cabeza/)
 - [Texty &lpar;editor de texto escrito en C&rpar;](https://jpromano.net/blog/texty-editor-de-texto-escrito-en-c/)
-- [«The Clean Coder» | Reseña literaria](https://jpromano.net/blog/the-clean-coder-resena-literaria/)
+- [“The Clean Coder” | Reseña literaria](https://jpromano.net/blog/the-clean-coder-resena-literaria/)
 - [Consejos para programar sanamente | Parte 2](https://jpromano.net/blog/consejos-para-programar-sanamente-parte-2/)
 - [Queriendo replicar Wolfenstein 3D en C++ | Intento N° 1](https://jpromano.net/blog/queriendo-replicar-wolfenstein-3d-en-c-intento-n-1/)
-- [Consejos para programar sanamente | Parte 1](https://jpromano.net/blog/consejos-para-programar-sanamente-parte-1/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
