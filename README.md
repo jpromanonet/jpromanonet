@@ -97,6 +97,8 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 ## &#x1f4c8; GitHub Stats
 
+[![Stack Muncher Badge](https://img.shields.io/badge/Stack-Profile-informational?style=flat&logo=StackMuncher&logoColor=white&color=0D76A8)](https://stackmuncher.com/jpromanonet)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
 
 <p align="center">
