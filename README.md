@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jpromanonet)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jupromano/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/juanp.raven/)
-[![Stack Muncher Badge](https://img.shields.io/badge/Stack_Muncher-Profile-informational?style=flat&logo=StackMuncher&logoColor=white&color=0D76A8)](https://stackmuncher.com/jpromanonet)
+[![Stack Badge](https://img.shields.io/badge/Muncher-Profile-informational?style=flat&logo=StackMuncher&logoColor=white&color=0D76A8)](https://stackmuncher.com/jpromanonet)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/jpromanonet)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
 
