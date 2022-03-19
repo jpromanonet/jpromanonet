@@ -20,6 +20,8 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 :zap: Full Stack Engineer at <a href="https://bekeu.com">Bekeu</a></br>
 :zap: Professor (Operative Systems 101) at <a href="https://github.com/unlz">UNLZ</a><br/>
 :zap: Mentor at <a href="https://github.com/nucba">Nucba</a><br/>
+:zap: Tutor at <a href="https://github.com/guayerd">Guayerd</a><br/>
+:zap: Mentor at <a href="https://github.com/alkemyTech">Alkemy Tech</a>
 
 ## 📝 Latest Blog Posts
 
