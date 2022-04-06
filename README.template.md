@@ -17,7 +17,6 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ## 📌 Currently working as
 
 :zap: Tech Leader at <a href="https://github.com/thebitar">The Bit</a><br/>
-:zap: Full Stack Engineer at <a href="https://bekeu.com">Bekeu</a></br>
 :zap: Professor (Operative Systems 101) at <a href="https://github.com/unlz">UNLZ</a><br/>
 :zap: Mentor at <a href="https://github.com/nucba">Nucba</a><br/>
 
