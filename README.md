@@ -18,7 +18,8 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 :zap: Tech Leader at <a href="https://github.com/thebitar">The Bit</a><br/>
 :zap: Project Coordinator at <a href="https://binit.tech">Binit</a><br/>
-:zap: Professor (Operative Systems 101 & Computer Science 101) at <a href="https://github.com/unlz">UNLZ</a><br/> 
+:zap: Professor (Operative Systems 101 & Computer Science 101) at <a href="https://github.com/unlz">UNLZ</a><br/>
+ 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
