@@ -18,7 +18,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 :zap: Tech Leader at <a href="https://github.com/thebitar">The Bit</a><br/>
 :zap: Project Coordinator at <a href="https://binit.tech">Binit</a><br/>
-:zap: Chief Technology Officer at <a href="https://tokensport.co">Token Sport</a><br/>
+:zap: CTO at <a href="https://tokensport.co">Token Sport</a><br/>
 :zap: Professor at <a href="https://github.com/unlz">UNLZ</a><br/>
 
 ## 📝 Latest Blog Posts
