@@ -16,7 +16,6 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 ## 📌 Currently working as
 
-:zap: Tech Leader at <a href="https://github.com/thebitar">The Bi
  
 ## 📝 Latest Blog Posts
 
