@@ -16,6 +16,9 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 ## 📌 Currently working as
 
+:zap: Tech Leader at <a href="https://github.com/thebitar">The Bit</a><br/>
+:zap: Project Coordinator at <a href="https://binit.tech">Binit</
+
  
 ## 📝 Latest Blog Posts
 
