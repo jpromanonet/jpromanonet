@@ -20,7 +20,6 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 :zap: Project Coordinator at <a href="https://binit.tech">Binit</a><br/>
 :zap: CTO at <a href="https://tokensport.co">Token Sport</a></br>
 :zap: Professor at <a href="https://www.unlz.edu.ar/">UNLZ</a><br/>
-:zap: Professor at <a href="https://www.coderhouse.com/">Coderhouse</a><br/>
  
 ## 📝 Latest Blog Posts
 
