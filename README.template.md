@@ -5,6 +5,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=0D76A8)](https://www.instagram.com/juanp.raven/)
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/jpromanonet)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
+[![Stack Badge](https://img.shields.io/badge/Stack_Muncher-Profile-informational?style=flat&logo=StackMuncher&logoColor=white&color=0D76A8)](https://stackmuncher.com/jpromanonet)
 
 Hey there :wave:
 
@@ -15,7 +16,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ## 📌 Currently working as
 
 :zap: Project Manager at <a href="https://binit.tech">Binit</a><br/>
-:zap: CEO at <a href="https://thebit.ar">The Bit</a><br/>
+:zap: General Director at <a href="https://thebit.ar">The Bit</a><br/>
  
 ## 📝 Latest Blog Posts
 
