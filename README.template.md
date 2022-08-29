@@ -16,7 +16,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ## 📌 Currently working as
 
 :zap: Project Manager at <a href="https://binit.tech">Binit</a><br/>
-:zap: General Director at <a href="https://thebit.ar">The Bit</a><br/>
+:zap: CEO at <a href="https://thebit.ar">The Bit</a><br/>
  
 ## 📝 Latest Blog Posts
 
