@@ -15,6 +15,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 ## 📌 Currently working as
 
+:zap: CEO at <a href="https://thebit.ar">The Bit</a><br/>
  
 ## 📝 Latest Blog Posts
 
