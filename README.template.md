@@ -15,16 +15,16 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ## 📌 Currently working as
 
 :zap: Software Engineer at <a href="https://binit.tech">Binit</a><br/>
-:zap: CEO at <a href="https://thebit.ar">The Bit</a><br/>
- 
+:zap: CEO & Co-founder at <a href="https://thebit.ar">The Bit</a><br/>
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [¿Qué es git y cómo se come?](https://thedevchronicles.com/que-es-git-y-como-se-come/)
-- [Instalando Linux Mint en Thinkpad L15 Gen2 &lpar;como evitar dolores de cabeza&rpar;](https://thedevchronicles.com/instalando-linux-mint-en-thinkpad-l15-gen2-como-evitar-dolores-de-cabeza/)
-- [Texty &lpar;editor de texto escrito en C&rpar;](https://thedevchronicles.com/texty-editor-de-texto-escrito-en-c/)
-- [“The Clean Coder” | Reseña literaria](https://thedevchronicles.com/the-clean-coder-resena-literaria/)
-- [Consejos para programar sanamente | Parte 2](https://thedevchronicles.com/consejos-para-programar-sanamente-parte-2/)
+- [Matriz de prioridades | Guía rápida](https://jpromano.net/blog/matriz-de-prioridades-guia-rapida/)
+- [¿Qué es git y cómo se come?](https://jpromano.net/blog/que-es-git-y-como-se-come/)
+- [Instalando Linux Mint en Thinkpad L15 Gen2 &lpar;como evitar dolores de cabeza&rpar;](https://jpromano.net/blog/instalando-linux-mint-en-thinkpad-l15-gen2-como-evitar-dolores-de-cabeza/)
+- [Texty &lpar;editor de texto escrito en C&rpar;](https://jpromano.net/blog/texty-editor-de-texto-escrito-en-c/)
+- [“The Clean Coder” | Reseña literaria](https://jpromano.net/blog/the-clean-coder-resena-literaria/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
