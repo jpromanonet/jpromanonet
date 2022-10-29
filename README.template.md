@@ -15,6 +15,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ## 📌 Currently working as
 
 :zap: Software Engineer at <a href="https://binit.tech">Binit</a><br/>
+:zap: CEO & Co-founder at <a href="https://thebit.ar">The Bit</a><br/>
 
 ## 📝 Latest Blog Posts
 
