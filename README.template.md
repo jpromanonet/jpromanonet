@@ -16,7 +16,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 :zap: Software Engineer at <a href="https://binit.tech">Binit</a><br/>
 :zap: CEO & Co-founder at <a href="https://thebit.ar">The Bit</a><br/>
-
+ 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -53,8 +53,6 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ![](https://img.shields.io/badge/Code-Lisp-informational?style=flat&logo=lisp&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Cobol-informational?style=flat&logo=cobol&logoColor=white&color=4AB197)
 
-<details>
-<summary>More Skills</summary>
 <br>
 
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
@@ -90,8 +88,6 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ![](https://img.shields.io/badge/Tools-Azure-informational?style=flat&logo=Azure&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Tools-AWS-informational?style=flat&logo=amazon-web-services&logoColor=white&color=4AB197)
 
-</details>
-
 ## &#x1f4c8; GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
@@ -114,17 +110,19 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
     <img src="https://github-profile-trophy.vercel.app/?username=jpromanonet&theme=matrix&column=4&no-frame=true" alt="Jpromanonet Profile Trophies" />
   </a>
 </div>
-
-<details>
- <summary>Profile visitors</summary>
- 
-  <p align="center">:round_pushpin: Profile visitors</p>
+<br>
+<p align="center">:round_pushpin: Profile visitors</p>
    
-   <div align="center">
-                      <a href="https://github.com/isyuricunha">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/isyuricunha/count.svg">
-   </div>
-</details>
+  <div align="center">
+    <a href="https://github.com/jpromanonet">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/jpromanonet/count.svg">
+  </div>
 
 <hr>
+ 
+  <div align="center">
+    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=yrv14uj4h5heji4xypkefgenf">
+  </div>
+<hr>
+
 <p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
