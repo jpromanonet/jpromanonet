@@ -125,8 +125,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 <hr>
  
   <div align="center">
-    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=">
-        <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=yrv14uj4h5heji4xypkefgenf">
+    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=yrv14uj4h5heji4xypkefgenf">
   </div>
 <hr>
 
