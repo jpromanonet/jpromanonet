@@ -115,12 +115,20 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
   </a>
 </div>
 
- <p align="center">:round_pushpin: Profile visitors</p>
+<p align="center">:round_pushpin: Profile visitors</p>
    
-   <div align="center">
-      <a href="https://github.com/jpromanonet">
-      <img alt="visitors counter" src="https://profile-counter.glitch.me/jpromanonet/count.svg">
-   </div>
+  <div align="center">
+    <a href="https://github.com/jpromanonet">
+    <img alt="visitors counter" src="https://profile-counter.glitch.me/jpromanonet/count.svg">
+  </div>
 
 <hr>
+<summary>Listening on the Spotify</summary>
+ 
+  <div align="center">
+                     <a href="https://github.com/jpromanonet">
+    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=yrv14uj4h5heji4xypkefgenf">
+  </div>
+<hr>
+
 <p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
