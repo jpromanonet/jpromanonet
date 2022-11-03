@@ -115,7 +115,6 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
   </a>
 </div>
 
- <summary>Profile visitors</summary>
  <p align="center">:round_pushpin: Profile visitors</p>
    
    <div align="center">
