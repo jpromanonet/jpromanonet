@@ -115,16 +115,13 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
   </a>
 </div>
 
-<details>
  <summary>Profile visitors</summary>
- 
-  <p align="center">:round_pushpin: Profile visitors</p>
+ <p align="center">:round_pushpin: Profile visitors</p>
    
    <div align="center">
-                      <a href="https://github.com/isyuricunha">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/isyuricunha/count.svg">
+      <a href="https://github.com/jpromanonet">
+      <img alt="visitors counter" src="https://profile-counter.glitch.me/jpromanonet/count.svg">
    </div>
-</details>
 
 <hr>
 <p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
