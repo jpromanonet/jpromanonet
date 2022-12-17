@@ -15,7 +15,6 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 ## 📌 Currently working as
 
 :zap: Director of Software Development at <a href="https://www.andreani.com">Andreani Grupo Logistico</a><br/>
-:zap: Professor at <a href="https://coderhouse.com">Coderhouse</a><br/>
  
 ## 📝 Latest Blog Posts
 
