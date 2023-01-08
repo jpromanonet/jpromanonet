@@ -14,7 +14,7 @@ Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
 ## 📌 Currently working as
 
-:zap: 
+:zap: IT Manager at <a href="https://tera.net.ar">Tera</a><br/>
 :zap: Professor at <a href="https://coderhouse.com">Coderhouse</a><br/>
  
 ## 📝 Latest Blog Posts
