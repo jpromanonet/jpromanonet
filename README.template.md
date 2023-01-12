@@ -8,7 +8,13 @@
 
 Hey there :wave:
 
-I'm Juan, a senior software engineer, dev-ops engineer and teacher with robust problem-solving skills and more than 10 years of proven experience in creating and designing software solutions for different companies.
+I'm Juan, an analytical, innovative, and motivated software professional with experience in customer service, team leadership, and organizational effectiveness in fast-paced and challenging environments. 
+<br/>
+<br/>
+Adept at developing strategies and driving streamlinedoperations. Diverse analytical skills, team collaboration, and relationship building. Consummate professional, and motivated leader, with solid interpersonal abilities and complex problem-solving skills. 
+<br/>
+<br/>
+Effective and proven track record of critical thinking, idea generation, and optimizing efficiencies.
 
 Want to know more? <a href="https://jpromano.net">Check out my portfolio</a>
 
