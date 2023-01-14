@@ -16,7 +16,7 @@ Adept at developing strategies and driving streamlined operations. Diverse analy
 <br/>
 Effective and proven track record of critical thinking, idea generation, and optimizing efficiencies.
 
-Want to know more? <a href="https://jpromano.net">Check out my website</a> or my <a href="portfolio.jpromano.net">portfolio here</a>
+Want to know more? <a href="https://jpromano.net">Check out my website</a> or my <a href="http://portfolio.jpromano.net">portfolio here</a>
 
 ## 📌 Currently working as
 
