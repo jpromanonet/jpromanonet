@@ -22,7 +22,6 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 :zap: Engineering Manager at <a href="https://adviters.com">Adviters</a><br/>
 :zap: Professor at <a href="https://coderhouse.com">Coderhouse</a><br/>
- 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -96,16 +95,14 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 ## &#x1f4c8; GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&layout=compact&theme=dark&wdith=100%&langs_count=10)](https://github.com/jpromanonet/github-readme-stats)
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpromanonet&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&them=dark">
 </p>
 
+<!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jpromanonet&theme=matrix&column=4&no-frame=true" alt="Jpromanonet Profile Trophies" />
