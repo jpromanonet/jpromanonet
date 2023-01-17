@@ -102,7 +102,7 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 <p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=Gapur&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark">
 </p>
 
 <!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
