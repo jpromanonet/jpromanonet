@@ -25,11 +25,11 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Matriz de prioridades | Guía rápida](https://jpromano.net/blog/matriz-de-prioridades-guia-rapida/)
-- [¿Qué es git y cómo se come?](https://jpromano.net/blog/que-es-git-y-como-se-come/)
-- [Instalando Linux Mint en Thinkpad L15 Gen2 &lpar;como evitar dolores de cabeza&rpar;](https://jpromano.net/blog/instalando-linux-mint-en-thinkpad-l15-gen2-como-evitar-dolores-de-cabeza/)
-- [Texty &lpar;editor de texto escrito en C&rpar;](https://jpromano.net/blog/texty-editor-de-texto-escrito-en-c/)
-- [“The Clean Coder” | Reseña literaria](https://jpromano.net/blog/the-clean-coder-resena-literaria/)
+- [Hidden Search Widget [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/hidden-search-widget-html-css-js/)
+- [Rotating Navbar [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/rotating-navbar-html-css-js/)
+- [Progress Steps [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/progress-steps-html-css-js/)
+- [Semana 02 [2023] | Resumen](https://divulgadoresporhobby.com/semana-02-2023-resumen/)
+- [Semana 01 [2023] | Resumen](https://divulgadoresporhobby.com/semana-01-2023-resumen/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
