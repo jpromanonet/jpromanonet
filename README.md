@@ -96,7 +96,7 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 ## &#x1f4c8; GitHub Stats
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpromanonet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jpromanonet&show_icons=true&theme=dark&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
