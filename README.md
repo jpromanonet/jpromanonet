@@ -109,7 +109,6 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 </p>
 
 
-
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jpromanonet&theme=matrix&column=4&no-frame=true" alt="Jpromanonet Profile Trophies" />
