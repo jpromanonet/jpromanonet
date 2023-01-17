@@ -96,6 +96,8 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 ## &#x1f4c8; GitHub Stats
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
+
 <p align="center">
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
 </p>
