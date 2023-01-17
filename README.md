@@ -98,6 +98,16 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
 
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   7 hrs 32 mins   ███████████████████▒░░░░░   77.77 %
+JSON         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+HTML         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Git Config   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+CSS          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+```
+
 <!--END_SECTION:waka-->
 
 <p align="center">
