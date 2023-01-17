@@ -22,15 +22,14 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 :zap: Engineering Manager at <a href="https://adviters.com">Adviters</a><br/>
 :zap: Professor at <a href="https://coderhouse.com">Coderhouse</a><br/>
- 
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Matriz de prioridades | Guía rápida](https://jpromano.net/blog/matriz-de-prioridades-guia-rapida/)
-- [¿Qué es git y cómo se come?](https://jpromano.net/blog/que-es-git-y-como-se-come/)
-- [Instalando Linux Mint en Thinkpad L15 Gen2 &lpar;como evitar dolores de cabeza&rpar;](https://jpromano.net/blog/instalando-linux-mint-en-thinkpad-l15-gen2-como-evitar-dolores-de-cabeza/)
-- [Texty &lpar;editor de texto escrito en C&rpar;](https://jpromano.net/blog/texty-editor-de-texto-escrito-en-c/)
-- [“The Clean Coder” | Reseña literaria](https://jpromano.net/blog/the-clean-coder-resena-literaria/)
+- [Hidden Search Widget [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/hidden-search-widget-html-css-js/)
+- [Rotating Navbar [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/rotating-navbar-html-css-js/)
+- [Progress Steps [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/progress-steps-html-css-js/)
+- [Semana 02 [2023] | Resumen](https://divulgadoresporhobby.com/semana-02-2023-resumen/)
+- [Semana 01 [2023] | Resumen](https://divulgadoresporhobby.com/semana-01-2023-resumen/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
@@ -96,13 +95,30 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 ## &#x1f4c8; GitHub Stats
 
-![](./profile-3d-contrib/profile-night-rainbow.svg)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
+
+<!--START_SECTION:waka-->
+
+```text
+JavaScript   7 hrs 32 mins   ███████████████████▒░░░░░   77.77 %
+JSON         50 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
+HTML         29 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 %
+Markdown     15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Git Config   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.57 %
+CSS          12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+```
+
+<!--END_SECTION:waka-->
 
 <p align="center">
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
+  <img width="70%"src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
+<p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=jpromanonet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark">
 </p>
 
-<!-- GitHub Profile Trophies https://github.com/ryo-ma/github-profile-trophy -->
+
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jpromanonet&theme=matrix&column=4&no-frame=true" alt="Jpromanonet Profile Trophies" />
