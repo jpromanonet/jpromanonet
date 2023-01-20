@@ -102,12 +102,8 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 39 mins   ██████████████████▒░░░░░░   73.31 %
-Markdown     59 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
-HTML         37 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.97 %
-CSS          27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.06 %
-YAML         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.63 %
-JSON         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 %
+JavaScript   8 hrs 1 min     ███████████████░░░░░░░░░░   59.46 %
+Other        2 hrs 28 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.29 %
 ```
 
 <!--END_SECTION:waka-->
