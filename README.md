@@ -22,6 +22,8 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 :zap: Engineering Manager at <a href="https://adviters.com">Adviters</a><br/>
 :zap: Professor at <a href="https://coderhouse.com">Coderhouse</a><br/>
+:zap: Open Source Contributor at <a href="https:slack.ar">Slackware Argentina</a>
+
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
