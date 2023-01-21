@@ -27,11 +27,11 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Semana 03 [2023] | Resumen](https://divulgadoresporhobby.com/semana-03-2023-resumen/)
 - [Split Landing [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/split-landing-html-css-js/)
 - [Scroll Animation [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/scroll-animation-html-css-js/)
 - [Blurry Loading [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/blurry-loading-html-css-js/)
 - [Hidden Search Widget [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/hidden-search-widget-html-css-js/)
-- [Rotating Navbar [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/rotating-navbar-html-css-js/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
