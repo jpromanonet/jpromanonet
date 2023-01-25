@@ -27,11 +27,11 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [FAQ Collapse](https://divulgadoresporhobby.com/faq-collapse/)
+- [Random Choice Picker [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/random-choice-picker-html-css-js/)
+- [FAQ Collapse [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/faq-collapse/)
 - [Event Key Codes [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/event-key-codes-html-css-js/)
 - [dadJokes [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/dadjokes-html-css-js/)
 - [Sound Board [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/sound-board-html-css-js/)
-- [Semana 03 [2023] | Resumen](https://divulgadoresporhobby.com/semana-03-2023-resumen/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
