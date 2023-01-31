@@ -27,11 +27,11 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [La física detrás de los rayos cósmicos: cómo se forman y cómo afectan a la Tierra](https://divulgadoresporhobby.com/la-fisica-detras-de-los-rayos-cosmicos-como-se-forman-y-como-afectan-a-la-tierra/)
 - [Los secretos detrás de los números primos](https://divulgadoresporhobby.com/los-secretos-detras-de-los-numeros-primos/)
 - [How to migrate from monolithic architecture to microservices.](https://divulgadoresporhobby.com/how-to-migrate-from-monolithic-architecture-to-microservices/)
 - [Semana 04 [2023] | Resumen](https://divulgadoresporhobby.com/semana-04-2023-resumen/)
 - [Random Choice Picker [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/random-choice-picker-html-css-js/)
-- [FAQ Collapse [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/faq-collapse/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
