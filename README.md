@@ -27,11 +27,11 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [5 key benefits of using microservices architecture in your next project](https://divulgadoresporhobby.com/5-key-benefits-of-using-microservices-architecture-in-your-next-project/)
 - [Semana 05 [2023] | Resumen](https://divulgadoresporhobby.com/semana-05-2023-resumen/)
 - [La física detrás de los rayos cósmicos: cómo se forman y cómo afectan a la Tierra](https://divulgadoresporhobby.com/la-fisica-detras-de-los-rayos-cosmicos-como-se-forman-y-como-afectan-a-la-tierra/)
 - [Los secretos detrás de los números primos](https://divulgadoresporhobby.com/los-secretos-detras-de-los-numeros-primos/)
 - [How to migrate from monolithic architecture to microservices.](https://divulgadoresporhobby.com/how-to-migrate-from-monolithic-architecture-to-microservices/)
-- [Semana 04 [2023] | Resumen](https://divulgadoresporhobby.com/semana-04-2023-resumen/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
