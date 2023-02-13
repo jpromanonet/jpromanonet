@@ -8,13 +8,16 @@
 
 Hey there :wave:
 
-I'm Juan, an analytical, innovative, and motivated software professional with experience in customer service, team leadership, and organizational effectiveness in fast-paced and challenging environments. 
+I'm Juan, a motivated leader, dedicated to helping my team reach their goals and succeed in both their professional and personal lives. I have a passion for supporting my team and a strong interpersonal skillset that allows me to think critically, generate new ideas, and optimize efficiencies.
 <br/>
 <br/>
-Adept at developing strategies and driving streamlined operations. Diverse analytical skills, team collaboration, and relationship building. Consummate professional, and motivated leader, with solid interpersonal abilities and complex problem-solving skills. 
+With a background in software, I bring a wealth of experience in customer service, team leadership, and organizational effectiveness to the table. I have a proven track record of success in fast-paced and challenging environments, thanks to my strategic thinking and collaboration abilities.
 <br/>
 <br/>
-Effective and proven track record of critical thinking, idea generation, and optimizing efficiencies.
+As a former CTO of two companies, I have a solid foundation in driving streamlined operations and maximizing value for my organizations. My diverse analytical skills and hands-on approach have made a significant impact in my past roles.
+<br/>
+<br/>
+I am eager to bring my technical expertise and leadership skills to a new team and continue making a positive impact. Helping my team is a joy for me, and I am confident in my ability to make a difference in any organization.
 
 Want to know more? <a href="https://jpromano.net">Check out my website</a> or my <a href="http://portfolio.jpromano.net">portfolio here</a>
 
@@ -27,14 +30,16 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Hidden Search Widget [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/hidden-search-widget-html-css-js/)
-- [Rotating Navbar [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/rotating-navbar-html-css-js/)
-- [Progress Steps [HTML, CSS &amp; JS]](https://divulgadoresporhobby.com/progress-steps-html-css-js/)
-- [Semana 02 [2023] | Resumen](https://divulgadoresporhobby.com/semana-02-2023-resumen/)
-- [Semana 01 [2023] | Resumen](https://divulgadoresporhobby.com/semana-01-2023-resumen/)
+
+- [Semana 06 [2023] Resumen](https://divulgadoresporhobby.com/semana-06-2023-resumen/)
+- [Cómo las probabilidades y estadísticas están detrás de los juegos de azar](https://divulgadoresporhobby.com/como-las-probabilidades-y-estadisticas-estan-detras-de-los-juegos-de-azar/)
+- [5 key benefits of using microservices architecture in your next project](https://divulgadoresporhobby.com/5-key-benefits-of-using-microservices-architecture-in-your-next-project/)
+- [Semana 05 [2023] | Resumen](https://divulgadoresporhobby.com/semana-05-2023-resumen/)
+- [La física detrás de los rayos cósmicos: cómo se forman y cómo afectan a la Tierra](https://divulgadoresporhobby.com/la-fisica-detras-de-los-rayos-cosmicos-como-se-forman-y-como-afectan-a-la-tierra/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
+
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=reactnative&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=VueJS&logoColor=white&color=4AB197)
@@ -104,12 +109,8 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   6 hrs 37 mins   ██████████████████░░░░░░░   71.55 %
-JSON         45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.27 %
-Markdown     41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 %
-HTML         33 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.97 %
-CSS          16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Git Config   14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 %
+JavaScript   6 hrs 16 mins   █████████████▒░░░░░░░░░░░   53.32 %
+Other        4 hrs           ████████▓░░░░░░░░░░░░░░░░   34.00 %
 ```
 
 <!--END_SECTION:waka-->
@@ -121,7 +122,6 @@ Git Config   14 mins         ▓░░░░░░░░░░░░░░░░
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=jpromanonet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark">
 </p>
-
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
