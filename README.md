@@ -8,13 +8,16 @@
 
 Hey there :wave:
 
-I'm Juan, an analytical, innovative, and motivated software professional with experience in customer service, team leadership, and organizational effectiveness in fast-paced and challenging environments. 
+I'm Juan, a motivated leader, I am dedicated to helping my team reach their goals and succeed in both their professional and personal lives. I have a passion for supporting my team and a strong interpersonal skillset that allows me to think critically, generate new ideas, and optimize efficiencies.
 <br/>
 <br/>
-Adept at developing strategies and driving streamlined operations. Diverse analytical skills, team collaboration, and relationship building. Consummate professional, and motivated leader, with solid interpersonal abilities and complex problem-solving skills. 
+With a background in software, I bring a wealth of experience in customer service, team leadership, and organizational effectiveness to the table. I have a proven track record of success in fast-paced and challenging environments, thanks to my strategic thinking and collaboration abilities.
 <br/>
 <br/>
-Effective and proven track record of critical thinking, idea generation, and optimizing efficiencies.
+As a former CTO of two companies, I have a solid foundation in driving streamlined operations and maximizing value for my organizations. My diverse analytical skills and hands-on approach have made a significant impact in my past roles.
+<br/>
+<br/>
+I am eager to bring my technical expertise and leadership skills to a new team and continue making a positive impact. Helping my team is a joy for me, and I am confident in my ability to make a difference in any organization.
 
 Want to know more? <a href="https://jpromano.net">Check out my website</a> or my <a href="http://portfolio.jpromano.net">portfolio here</a>
 
