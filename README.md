@@ -107,8 +107,8 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript   8 hrs 43 mins   ████████████▓░░░░░░░░░░░░   51.11 %
-Other        7 hrs           ██████████▒░░░░░░░░░░░░░░   41.05 %
+JavaScript   8 hrs 38 mins   █████████████▓░░░░░░░░░░░   55.33 %
+Other        6 hrs           █████████▓░░░░░░░░░░░░░░░   38.41 %
 ```
 
 <!--END_SECTION:waka-->
