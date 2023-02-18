@@ -32,9 +32,9 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 <!-- BLOG-POST-LIST:START -->
 - [La matemática detrás de la música: comprendiendo las notas y las proporciones](https://divulgadoresporhobby.com/la-matematica-detras-de-la-musica-comprendiendo-las-notas-y-las-proporciones/)
 - [Choosing the right technology stack for your microservices](https://divulgadoresporhobby.com/choosing-the-right-technology-stack-for-your-microservices/)
+- [Semana 07 [2023] | Resumen](https://divulgadoresporhobby.com/semana-07-2023-resumen/)
 - [Semana 06 [2023] Resumen](https://divulgadoresporhobby.com/semana-06-2023-resumen/)
 - [Cómo las probabilidades y estadísticas están detrás de los juegos de azar](https://divulgadoresporhobby.com/como-las-probabilidades-y-estadisticas-estan-detras-de-los-juegos-de-azar/)
-- [5 key benefits of using microservices architecture in your next project](https://divulgadoresporhobby.com/5-key-benefits-of-using-microservices-architecture-in-your-next-project/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
