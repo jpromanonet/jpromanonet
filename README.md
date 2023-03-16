@@ -29,11 +29,11 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Día 74 [2023] | Resumen](https://divulgadoresporhobby.com/dia-74-2023-resumen/)
 - [Día 73 [2023] | Resumen](https://divulgadoresporhobby.com/dia-73-2023-resumen/)
 - [Día 72 [2023] | Resumen](https://divulgadoresporhobby.com/dia-72-2023-resumen/)
 - [Real-world examples of microservices in action](https://divulgadoresporhobby.com/real-world-examples-of-microservices-in-action/)
 - [Semana 07 [2023] | Resumen](https://divulgadoresporhobby.com/semana-07-2023-resumen/)
-- [La matemática detrás de la música: comprendiendo las notas y las proporciones](https://divulgadoresporhobby.com/la-matematica-detras-de-la-musica-comprendiendo-las-notas-y-las-proporciones/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
