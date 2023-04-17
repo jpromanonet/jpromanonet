@@ -24,7 +24,6 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📌 Currently working as
 
 :zap: Engineering Manager at <a href="https://adviters.com">Adviters</a><br/>
-:zap: Open Source Contributor at <a href="https://slack.ar">Slackware Argentina</a>
 
 ## 📝 Latest Blog Posts
 
