@@ -105,9 +105,7 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   12 mins         ████████████▓░░░░░░░░░░░░   50.45 %
-Blazor     10 mins         ██████████▓░░░░░░░░░░░░░░   42.27 %
-SQL        1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Markdown   12 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
