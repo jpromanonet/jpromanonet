@@ -105,8 +105,8 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   12 mins         ██████████████▓░░░░░░░░░░   58.60 %
-Python     8 mins          ██████████▒░░░░░░░░░░░░░░   41.40 %
+Other    15 mins         ███████████████▓░░░░░░░░░   62.65 %
+Python   8 mins          █████████▒░░░░░░░░░░░░░░░   37.35 %
 ```
 
 <!--END_SECTION:waka-->
