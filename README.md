@@ -105,11 +105,11 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 <!--START_SECTION:waka-->
 
 ```text
-Markdown   20 mins         ████████▒░░░░░░░░░░░░░░░░   32.74 %
-Bash       17 mins         ███████░░░░░░░░░░░░░░░░░░   28.50 %
-Other      15 mins         ██████░░░░░░░░░░░░░░░░░░░   24.20 %
-Python     8 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
+Markdown   20 mins         ████████░░░░░░░░░░░░░░░░░   31.58 %
+Bash       19 mins         ███████▓░░░░░░░░░░░░░░░░░   30.98 %
+Other      15 mins         ██████░░░░░░░░░░░░░░░░░░░   23.34 %
+Python     8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
+C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
