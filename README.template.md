@@ -107,15 +107,6 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
 
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   6 hrs 16 mins   █████████████▒░░░░░░░░░░░   53.32 %
-Other        4 hrs           ████████▓░░░░░░░░░░░░░░░░   34.00 %
-```
-
-<!--END_SECTION:waka-->
-
 <p align="center">
   <img width="70%"src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
 <p>
