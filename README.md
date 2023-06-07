@@ -105,18 +105,6 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
 
-<!--START_SECTION:waka-->
-
-```text
-Markdown   20 mins         ████████░░░░░░░░░░░░░░░░░   31.58 %
-Bash       19 mins         ███████▓░░░░░░░░░░░░░░░░░   30.98 %
-Other      15 mins         ██████░░░░░░░░░░░░░░░░░░░   23.34 %
-Python     8 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.92 %
-C          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-```
-
-<!--END_SECTION:waka-->
-
 <p align="center">
   <img width="70%"src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
 <p>
@@ -124,7 +112,6 @@ C          0 secs          ░░░░░░░░░░░░░░░░░�
 <p align="center">
   <img width="70%" src="https://github-readme-stats.vercel.app/api?username=jpromanonet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark">
 </p>
-
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
