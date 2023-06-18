@@ -26,7 +26,7 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 :zap: Engineering Manager at <a href="https://adviters.com">Adviters</a><br/>
 
 ## 🏆 My github rank in Argentina?
-:zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
+:zap: [![committers.top badge](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
 
 ## 📝 Latest Blog Posts
 
