@@ -8,7 +8,7 @@
 
 Hey there :wave:
 
-I'm Juan, a motivated leader, dedicated to helping my team reach their goals and succeed in both their professional and personal lives. I have a passion for supporting my team and a strong interpersonal skillset that allows me to think critically, generate new ideas, and optimize efficiencies.
+I'm Juan, a motivated leader, dedicated to helping my team reach their goals and succeed in both their professional and personal lives. I have a passion for supporting my team and a strong interpersonal skillset that allows me to think critically, generate new ideas, and optimize efficiencies. 
 <br/>
 <br/>
 With a background in software, I bring a wealth of experience in customer service, team leadership, and organizational effectiveness to the table. I have a proven track record of success in fast-paced and challenging environments, thanks to my strategic thinking and collaboration abilities.
