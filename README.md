@@ -6,18 +6,11 @@
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/jpromanonet)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
 
-Hey there :wave:
+👋 Hello! I'm Juan, a software engineer and leader with experience as a former CTO of two companies. My goal is to drive team success by creating innovative solutions. 💻
 
-I'm Juan, a motivated leader, dedicated to helping my team reach their goals and succeed in both their professional and personal lives. I have a passion for supporting my team and a strong interpersonal skillset that allows me to think critically, generate new ideas, and optimize efficiencies.
-<br/>
-<br/>
-With a background in software, I bring a wealth of experience in customer service, team leadership, and organizational effectiveness to the table. I have a proven track record of success in fast-paced and challenging environments, thanks to my strategic thinking and collaboration abilities.
-<br/>
-<br/>
-As a former CTO of two companies, I have a solid foundation in driving streamlined operations and maximizing value for my organizations. My diverse analytical skills and hands-on approach have made a significant impact in my past roles.
-<br/>
-<br/>
-I am eager to bring my technical expertise and leadership skills to a new team and continue making a positive impact. Helping my team is a joy for me, and I am confident in my ability to make a difference in any organization.
+With expertise in Java, Python (including Django), Java, C#, C++, and JavaScript (Node, React, Angular, Vue), I have the ability to generate creative ideas and optimize challenging projects. ⚙️
+
+I've contributed to impactful projects and I'm excited to join a new team, take on challenges, and create solutions together. Let's chat! 🚀
 
 Want to know more? <a href="https://jpromano.net">Check out my website</a> or my <a href="http://portfolio.jpromano.net">portfolio here</a>
 
