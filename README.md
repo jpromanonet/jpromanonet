@@ -115,6 +115,10 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
   </a>
 </div>
 <br>
+<div align="center">
+  <a href="https://app.daily.dev/jpromanonet"><img src="https://api.daily.dev/devcards/e264c31019864b179cb4f432e4cd2a5d.png?r=9pq" width="400" alt="Juan P. Romano's Dev Card"/></a>
+</div>
+<br>
 <p align="center">:round_pushpin: Profile visitors</p>
    
   <div align="center">
