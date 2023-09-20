@@ -27,11 +27,11 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Proyecto: “Big Tech Job Offer” – Parte 1](https://divulgadoresporhobby.com/proyecto-big-tech-job-offer-parte-1/)
 - [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
 - [Semana 21 [2023] | Resumen](https://divulgadoresporhobby.com/semana-21-2023-resumen/)
 - [Semana 20 [2023] | Resumen](https://divulgadoresporhobby.com/semana-20-2023-resumen/)
 - [Semana 19 [2023] | Resumen](https://divulgadoresporhobby.com/semana-19-2023-resumen/)
-- [Semana 17 [2023] | Resumen](https://divulgadoresporhobby.com/semana-17-2023-resumen/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📝 Latest Dev.to Posts
@@ -118,6 +118,12 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
   </a>
 </div>
 <br>
+<hr>
+<div align="center">
+  <a href="https://app.daily.dev/jpromanonet"><img src="https://api.daily.dev/devcards/e264c31019864b179cb4f432e4cd2a5d.png?r=9pq" width="400" alt="Juan P. Romano's Dev Card"/></a>
+</div>
+<br>
+<hr>
 <p align="center">:round_pushpin: Profile visitors</p>
    
   <div align="center">
