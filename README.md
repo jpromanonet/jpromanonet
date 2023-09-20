@@ -34,6 +34,9 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 - [Semana 17 [2023] | Resumen](https://divulgadoresporhobby.com/semana-17-2023-resumen/)
 <!-- BLOG-POST-LIST:END -->
 
+## 📝 Latest Dev.to Posts
+{{ template "article-table" .Articles }}
+
 ## 💼 Skills
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=reactnative&logoColor=white&color=4AB197)
