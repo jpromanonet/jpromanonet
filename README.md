@@ -34,7 +34,7 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 - [Semana 19 [2023] | Resumen](https://divulgadoresporhobby.com/semana-19-2023-resumen/)
 <!-- BLOG-POST-LIST:END -->
 
-## 📝 Latest Dev.to Posts
+## ✍🏼 Latest Dev.to Posts
 
 <table>
         <tr>
