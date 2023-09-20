@@ -27,12 +27,11 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Semana 06 [2023] Resumen](https://divulgadoresporhobby.com/semana-06-2023-resumen/)
-- [Cómo las probabilidades y estadísticas están detrás de los juegos de azar](https://divulgadoresporhobby.com/como-las-probabilidades-y-estadisticas-estan-detras-de-los-juegos-de-azar/)
-- [5 key benefits of using microservices architecture in your next project](https://divulgadoresporhobby.com/5-key-benefits-of-using-microservices-architecture-in-your-next-project/)
-- [Semana 05 [2023] | Resumen](https://divulgadoresporhobby.com/semana-05-2023-resumen/)
-- [La física detrás de los rayos cósmicos: cómo se forman y cómo afectan a la Tierra](https://divulgadoresporhobby.com/la-fisica-detras-de-los-rayos-cosmicos-como-se-forman-y-como-afectan-a-la-tierra/)
+- [Proyecto: “Big Tech Job Offer” – Parte 1](https://divulgadoresporhobby.com/proyecto-big-tech-job-offer-parte-1/)
+- [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
+- [Semana 21 [2023] | Resumen](https://divulgadoresporhobby.com/semana-21-2023-resumen/)
+- [Semana 20 [2023] | Resumen](https://divulgadoresporhobby.com/semana-20-2023-resumen/)
+- [Semana 19 [2023] | Resumen](https://divulgadoresporhobby.com/semana-19-2023-resumen/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📝 Latest Dev.to Posts
