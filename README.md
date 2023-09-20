@@ -17,27 +17,39 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📌 Currently working as
 
 :zap: Engineering Manager at <a href="https://adviters.com">Adviters</a><br/>
-:zap: Journalist at <a href="https://enfoquedenegocios.com.ar">ENE - Enfoque de Negocios</a><br/>
+:zap: Journalist at <a href="https://enfoquedenegocios.com">ENE - Enfoque de Negocios</a><br/>
 :zap: Professor at <a href="https://puentic.ar">Puentic</a><br/>
 :zap: Volunteer Mentor & IT Interviewer at <a href="https://junior.org.ar">Junior Achievement</a><br/>
 
 ## 🏆 My github rank in Argentina?
-:zap: [![committers.top badge](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
+:zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
 
 ## 📝 Latest Blog Posts
 
-<!-- BLOG-POST-LIST:START -->
-- [Proyecto: “Big Tech Job Offer” – Parte 1](https://divulgadoresporhobby.com/proyecto-big-tech-job-offer-parte-1/)
-- [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
-- [Semana 21 [2023] | Resumen](https://divulgadoresporhobby.com/semana-21-2023-resumen/)
-- [Semana 20 [2023] | Resumen](https://divulgadoresporhobby.com/semana-20-2023-resumen/)
-- [Semana 19 [2023] | Resumen](https://divulgadoresporhobby.com/semana-19-2023-resumen/)
-<!-- BLOG-POST-LIST:END -->
+
+
+- [Semana 06 [2023] Resumen](https://divulgadoresporhobby.com/semana-06-2023-resumen/)
+- [Cómo las probabilidades y estadísticas están detrás de los juegos de azar](https://divulgadoresporhobby.com/como-las-probabilidades-y-estadisticas-estan-detras-de-los-juegos-de-azar/)
+- [5 key benefits of using microservices architecture in your next project](https://divulgadoresporhobby.com/5-key-benefits-of-using-microservices-architecture-in-your-next-project/)
+- [Semana 05 [2023] | Resumen](https://divulgadoresporhobby.com/semana-05-2023-resumen/)
+- [La física detrás de los rayos cósmicos: cómo se forman y cómo afectan a la Tierra](https://divulgadoresporhobby.com/la-fisica-detras-de-los-rayos-cosmicos-como-se-forman-y-como-afectan-a-la-tierra/)
+
 
 ## 📝 Latest Dev.to Posts
-{{ template "article-table" .Articles }}
+
+<table>
+        <tr>
+            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--iiHpJHQO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cf1n9t86sm2jbspjb478.jpg" alt="thumbnail"></td>
+            <td>
+                <a href="https://dev.to/jpromanonet/proyecto-big-tech-job-offer-parte-1-3kcf">Proyecto: “Big Tech Job Offer” — Parte 1</a>
+                <div>FAANG es el acronimo que se usaba para nombrar a las empresas referentes de la industria valoradas en...</div>
+                <div><i>18/09/2023</i></div>
+            </td>
+        </tr>
+</table>
 
 ## 💼 Skills
+
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-React_Native-informational?style=flat&logo=reactnative&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-VueJS-informational?style=flat&logo=VueJS&logoColor=white&color=4AB197)
@@ -118,12 +130,6 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
   </a>
 </div>
 <br>
-<hr>
-<div align="center">
-  <a href="https://app.daily.dev/jpromanonet"><img src="https://api.daily.dev/devcards/e264c31019864b179cb4f432e4cd2a5d.png?r=9pq" width="400" alt="Juan P. Romano's Dev Card"/></a>
-</div>
-<br>
-<hr>
 <p align="center">:round_pushpin: Profile visitors</p>
    
   <div align="center">
