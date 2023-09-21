@@ -18,7 +18,6 @@ jobs:
         with:
           username: jpromanonet
           limit: 10
-          template-file: 'README.template.md'
           out-file: 'README.md'
       - name: Commit
         run: |
