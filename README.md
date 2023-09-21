@@ -35,7 +35,7 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 - [La física detrás de los rayos cósmicos: cómo se forman y cómo afectan a la Tierra](https://divulgadoresporhobby.com/la-fisica-detras-de-los-rayos-cosmicos-como-se-forman-y-como-afectan-a-la-tierra/)
 
 
-## 📝 Latest Dev.to Posts
+## ✍️ Latest Dev.to Posts
 
 <table>
         <tr>
