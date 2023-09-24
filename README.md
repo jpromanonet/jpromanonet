@@ -26,14 +26,8 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 ## 📝 Latest Blog Posts
 
-
-- [Proyecto: “Big Tech Job Offer” – Parte 1](https://divulgadoresporhobby.com/proyecto-big-tech-job-offer-parte-1/)
-- [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
-- [Semana 21 [2023] | Resumen](https://divulgadoresporhobby.com/semana-21-2023-resumen/)
-- [Semana 20 [2023] | Resumen](https://divulgadoresporhobby.com/semana-20-2023-resumen/)
-- [Semana 19 [2023] | Resumen](https://divulgadoresporhobby.com/semana-19-2023-resumen/)
-
-
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ## ✍️  Latest Dev.to Posts
 
