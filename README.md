@@ -16,7 +16,6 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 ## 📌 Currently working as
 
-:zap: Engineering Manager at <a href="https://adviters.com">Adviters</a><br/>
 :zap: Journalist at <a href="https://enfoquedenegocios.com">ENE - Enfoque de Negocios</a><br/>
 :zap: Professor at <a href="https://puentic.ar">Puentic</a><br/>
 :zap: Volunteer Mentor & IT Interviewer at <a href="https://junior.org.ar">Junior Achievement</a><br/>
