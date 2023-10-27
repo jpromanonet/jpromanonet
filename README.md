@@ -8,7 +8,7 @@
 
 👋 Hello! I'm Juan, a software engineer and leader with experience as a former CTO of two companies. My goal is to drive team success by creating innovative solutions. 💻
 
-With expertise in Java, Python (including Django), Java, C#, C++, and JavaScript (Node, React, Angular, Vue), I have the ability to generate creative ideas and optimize challenging projects. ⚙️
+With expertise in Java, Python (including Django), C++, and JavaScript (Node, React, Angular, Vue), I have the ability to generate creative ideas and optimize challenging projects. ⚙️
 
 I've contributed to impactful projects and I'm excited to join a new team, take on challenges, and create solutions together. Let's chat! 🚀
 
