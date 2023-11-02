@@ -6,7 +6,7 @@
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/jpromanonet)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
 
-👋 Hello! I'm Juan, a software engineer and leader with experience as a former CTO of two companies. My goal is to drive team success by creating innovative solutions. 💻
+👋 Hello! I'm Juan, a software engineer, writer, teacher and leader with experience as a former CTO of two companies. My goal is to drive team success by creating innovative solutions. 💻
 
 With expertise in Java, Python (including Django), C++, and JavaScript (Node, React, Angular, Vue), I have the ability to generate creative ideas and optimize challenging projects. ⚙️
 
@@ -17,7 +17,7 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📌 Currently working as
 
 :zap: Contributing Writer  at <a href="https://www.freecodecamp.org/news">FreeCodeCamp/a><br/>
-:zap: Content Writer at <a href="https://henry.com">Henry</a><br/>
+:zap: Content Writer at <a href="https://soyhenry.com">Henry</a><br/>
 :zap: Journalist at <a href="https://enfoquedenegocios.com">ENE - Enfoque de Negocios</a><br/>
 :zap: Professor at <a href="https://puentic.ar">Puentic</a><br/>
 
