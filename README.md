@@ -16,9 +16,10 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 ## 📌 Currently working as
 
+:zap: Contributing Writer  at <a href="https://www.freecodecamp.org/news">FreeCodeCamp/a><br/>
+:zap: Content Writer at <a href="https://henry.com">Henry</a><br/>
 :zap: Journalist at <a href="https://enfoquedenegocios.com">ENE - Enfoque de Negocios</a><br/>
 :zap: Professor at <a href="https://puentic.ar">Puentic</a><br/>
-:zap: Volunteer Mentor & IT Interviewer at <a href="https://junior.org.ar">Junior Achievement</a><br/>
 
 ## 🏆 My github rank in Argentina?
 :zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
