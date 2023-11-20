@@ -26,26 +26,9 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 ## 📝 Latest Blog Posts
 
+<!-- BLOG-POST-LIST:START -->
 
-- [Proyecto: “Big Tech Job Offer” – Parte 2](https://divulgadoresporhobby.com/proyecto-big-tech-job-offer-parte-2/)
-- [Proyecto: “Big Tech Job Offer” – Parte 1](https://divulgadoresporhobby.com/proyecto-big-tech-job-offer-parte-1/)
-- [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
-- [Semana 21 [2023] | Resumen](https://divulgadoresporhobby.com/semana-21-2023-resumen/)
-- [Semana 20 [2023] | Resumen](https://divulgadoresporhobby.com/semana-20-2023-resumen/)
-
-
-## ✍️  Latest Dev.to Posts
-
-<table>
-        <tr>
-            <td width="300px"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--iiHpJHQO--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/cf1n9t86sm2jbspjb478.jpg" alt="thumbnail"></td>
-            <td>
-                <a href="https://dev.to/jpromanonet/proyecto-big-tech-job-offer-parte-1-3kcf">Proyecto: “Big Tech Job Offer” — Parte 1</a>
-                <div>FAANG es el acronimo que se usaba para nombrar a las empresas referentes de la industria valoradas en...</div>
-                <div><i>18/09/2023</i></div>
-            </td>
-        </tr>
-</table>
+<!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
 
