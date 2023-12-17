@@ -16,7 +16,7 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 ## 📌 Currently working as
 
-:zap: Tech Leader at <a href="https://www.oca.com.ar">OCA</a><br/>
+:zap: Technical Leader at <a href="https://www.oca.com.ar">OCA</a><br/>
 :zap: Contributing Writer at <a href="https://www.freecodecamp.org/news">FreeCodeCamp</a><br/>
 :zap: Content Writer at <a href="https://soyhenry.com">Henry</a><br/>
 :zap: Journalist at <a href="https://enfoquedenegocios.com">ENE - Enfoque de Negocios</a><br/>
