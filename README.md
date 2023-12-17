@@ -27,11 +27,11 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [The Pitfalls of Over Engineering: How complexity can undermine success](https://divulgadoresporhobby.com/the-pitfalls-of-over-engineering-how-complexity-can-undermine-success/)
-- [Proyecto: “Big Tech Job Offer” – Parte 3](https://divulgadoresporhobby.com/proyecto-big-tech-job-offer-parte-3/)
-- [Proyecto: “Big Tech Job Offer” – Parte 2](https://divulgadoresporhobby.com/proyecto-big-tech-job-offer-parte-2/)
-- [Proyecto: “Big Tech Job Offer” – Parte 1](https://divulgadoresporhobby.com/proyecto-big-tech-job-offer-parte-1/)
-- [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
+- [The Pitfalls of Over Engineering: How complexity can undermine success](https://divulgadoresporhobby.com.ar/es_es/the-pitfalls-of-over-engineering-how-complexity-can-undermine-success/)
+- [Proyecto: “Big Tech Job Offer” – Parte 3](https://divulgadoresporhobby.com.ar/es_es/proyecto-big-tech-job-offer-parte-3/)
+- [Proyecto: “Big Tech Job Offer” – Parte 2](https://divulgadoresporhobby.com.ar/es_es/proyecto-big-tech-job-offer-parte-2/)
+- [Proyecto: “Big Tech Job Offer” – Parte 1](https://divulgadoresporhobby.com.ar/es_es/proyecto-big-tech-job-offer-parte-1/)
+- [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com.ar/es_es/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
