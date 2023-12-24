@@ -29,9 +29,9 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 <!-- BLOG-POST-LIST:START -->
 - [Pong and Python: A Perfect Match for Beginner Game Developers](https://divulgadoresporhobby.com.ar/es_es/pong-and-python-a-perfect-match-for-beginner-game-developers/)
 - [The Pitfalls of Over Engineering: How complexity can undermine success](https://divulgadoresporhobby.com.ar/es_es/the-pitfalls-of-over-engineering-how-complexity-can-undermine-success/)
-- [Proyecto: “Big Tech Job Offer” – Parte 3](https://divulgadoresporhobby.com.ar/es_es/proyecto-big-tech-job-offer-parte-3/)
-- [Proyecto: “Big Tech Job Offer” – Parte 2](https://divulgadoresporhobby.com.ar/es_es/proyecto-big-tech-job-offer-parte-2/)
-- [Proyecto: “Big Tech Job Offer” – Parte 1](https://divulgadoresporhobby.com.ar/es_es/proyecto-big-tech-job-offer-parte-1/)
+- [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com.ar/es_es/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
+- [Semana 21 [2023] | Resumen](https://divulgadoresporhobby.com.ar/es_es/semana-21-2023-resumen/)
+- [Semana 20 [2023] | Resumen](https://divulgadoresporhobby.com.ar/es_es/semana-20-2023-resumen/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
