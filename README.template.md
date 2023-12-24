@@ -6,9 +6,9 @@
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/jpromanonet)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
 
-👋 Hello! I'm Juan, a software engineer and leader with experience as a former CTO of two companies. My goal is to drive team success by creating innovative solutions. 💻
+👋 Hello! I'm Juan, a software engineer, writer, teacher and leader with experience as a former CTO of two companies. My goal is to drive team success by creating innovative solutions. 💻
 
-With expertise in Java, Python (including Django), Java, C#, C++, and JavaScript (Node, React, Angular, Vue), I have the ability to generate creative ideas and optimize challenging projects. ⚙️
+With expertise in Java, Python (including Django), C++, and JavaScript (Node, React, Angular, Vue), I have the ability to generate creative ideas and optimize challenging projects. ⚙️
 
 I've contributed to impactful projects and I'm excited to join a new team, take on challenges, and create solutions together. Let's chat! 🚀
 
@@ -16,10 +16,15 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 ## 📌 Currently working as
 
-:zap: Engineering Manager at <a href="https://adviters.com">Adviters</a><br/>
+:zap: Technical Leader at <a href="https://www.oca.com.ar">OCA</a><br/>
+
+:zap: Content Writer at <a href="https://soyhenry.com">Henry</a><br/>
 :zap: Journalist at <a href="https://enfoquedenegocios.com">ENE - Enfoque de Negocios</a><br/>
-:zap: Professor at <a href="https://puentic.ar">Puentic</a><br/>
-:zap: Volunteer Mentor & IT Interviewer at <a href="https://junior.org.ar">Junior Achievement</a><br/>
+
+## 🆓 Open Source projects I'm currently working on
+
+:zap: Contributing Writer at <a href="https://www.freecodecamp.org/news">FreeCodeCamp</a><br/>
+:zap: Maintainer at <a href="https://www.github.com/slack-ar">Slackware Argentina</a><br/>
 
 ## 🏆 My github rank in Argentina?
 :zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
@@ -27,12 +32,11 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Semana 06 [2023] Resumen](https://divulgadoresporhobby.com/semana-06-2023-resumen/)
-- [Cómo las probabilidades y estadísticas están detrás de los juegos de azar](https://divulgadoresporhobby.com/como-las-probabilidades-y-estadisticas-estan-detras-de-los-juegos-de-azar/)
-- [5 key benefits of using microservices architecture in your next project](https://divulgadoresporhobby.com/5-key-benefits-of-using-microservices-architecture-in-your-next-project/)
-- [Semana 05 [2023] | Resumen](https://divulgadoresporhobby.com/semana-05-2023-resumen/)
-- [La física detrás de los rayos cósmicos: cómo se forman y cómo afectan a la Tierra](https://divulgadoresporhobby.com/la-fisica-detras-de-los-rayos-cosmicos-como-se-forman-y-como-afectan-a-la-tierra/)
+- [Pong and Python: A Perfect Match for Beginner Game Developers](https://divulgadoresporhobby.com.ar/es_es/pong-and-python-a-perfect-match-for-beginner-game-developers/)
+- [The Pitfalls of Over Engineering: How complexity can undermine success](https://divulgadoresporhobby.com.ar/es_es/the-pitfalls-of-over-engineering-how-complexity-can-undermine-success/)
+- [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com.ar/es_es/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
+- [Semana 21 [2023] | Resumen](https://divulgadoresporhobby.com.ar/es_es/semana-21-2023-resumen/)
+- [Semana 20 [2023] | Resumen](https://divulgadoresporhobby.com.ar/es_es/semana-20-2023-resumen/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
