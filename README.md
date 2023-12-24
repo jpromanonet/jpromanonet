@@ -28,7 +28,7 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## ✍️ Blogs I'm currently writing
 
 :zap: <a href="https://divulgadoresporhobby.com.ar">Divulgadores por Hobby</a><br/>
-:zap: Maintainer at <a href="http://hackandmate.com.ar">Hack & Mate</a><br/>
+:zap: <a href="http://hackandmate.com.ar">Hack & Mate</a><br/>
 
 ## 🏆 My github rank in Argentina?
 :zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
