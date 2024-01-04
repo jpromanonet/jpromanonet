@@ -36,11 +36,11 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pong and Python: A Perfect Match for Beginner Game Developers](https://divulgadoresporhobby.com.ar/es_es/pong-and-python-a-perfect-match-for-beginner-game-developers/)
-- [The Pitfalls of Over Engineering: How complexity can undermine success](https://divulgadoresporhobby.com.ar/es_es/the-pitfalls-of-over-engineering-how-complexity-can-undermine-success/)
-- [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com.ar/es_es/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
-- [Semana 21 [2023] | Resumen](https://divulgadoresporhobby.com.ar/es_es/semana-21-2023-resumen/)
-- [Semana 20 [2023] | Resumen](https://divulgadoresporhobby.com.ar/es_es/semana-20-2023-resumen/)
+- [Visualizing Fibonacci: mathematical patterns and infinite harmony](https://divulgadoresporhobby.com.ar/visualizing-fibonacci-mathematical-patterns-and-infinite-harmony/)
+- [Pong and Python: A Perfect Match for Beginner Game Developers](https://divulgadoresporhobby.com.ar/pong-and-python-a-perfect-match-for-beginner-game-developers/)
+- [The Pitfalls of Over Engineering: How complexity can undermine success](https://divulgadoresporhobby.com.ar/the-pitfalls-of-over-engineering-how-complexity-can-undermine-success/)
+- [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com.ar/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
+- [Semana 21 [2023] | Resumen](https://divulgadoresporhobby.com.ar/semana-21-2023-resumen/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
