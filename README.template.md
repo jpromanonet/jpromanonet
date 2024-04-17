@@ -17,7 +17,7 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📌 Currently working as
 
 :zap: Technical Leader at <a href="https://www.oca.com.ar">OCA</a><br/>
-:zap: Content Writer at <a href="https://soyhenry.com">Henry</a><br/>
+:zap: Chief Technology Officer at <a href="https://yerba.tech">Yerba Tech</a><br/>
 :zap: Journalist at <a href="https://www.enfoquedenegocios.com.ar/author/juanpablo-romano/">ENE - Enfoque de Negocios</a><br/>
 
 ## 🆓 Open Source projects I'm currently working on
