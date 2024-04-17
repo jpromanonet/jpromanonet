@@ -22,7 +22,7 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 ## 🆓 Open Source projects I'm currently working on
 
-:zap: Chief Technology Officer at <a href="https://ututo.ar">Ututo</a><br/>
+:zap: Chief Coordinator at <a href="https://ututo.ar">Ututo</a><br/>
 :zap: Contributing Writer at <a href="https://www.freecodecamp.org/news/author/jpromanonet">FreeCodeCamp</a><br/>
 :zap: Organizer at <a href="https://flisol.info/FLISOL2023/Argentina/CABA">FLISol - CABA</a><br/>
 
