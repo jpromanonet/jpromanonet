@@ -6,11 +6,11 @@
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/jpromanonet)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
 
-👋 Hello! I'm Juan, a software engineer, writer, teacher and leader with experience as a former CTO of two companies. My goal is to drive team success by creating innovative solutions. 💻
+👋 Hey there! I'm Juan, a software engineer and leader currently serving as the CTO of <a href="https://yerba.tech">Yerba Tech</a>.💻
 
-With expertise in Java, Python (including Django), C++, and JavaScript (Node, React, Angular, Vue), I have the ability to generate creative ideas and optimize challenging projects. ⚙️
+With expertise in Java, Python (including Django), C++, and JavaScript (Node, React, Angular, Vue), I excel at generating creative ideas and optimizing challenging projects. ⚙️
 
-I've contributed to impactful projects and I'm excited to join a new team, take on challenges, and create solutions together. Let's chat! 🚀
+In addition to my role as CTO, I'm also the Chief Coordinator of Ututo Linux and Tech Lead in OCA. Furthermore, I'm currently authoring a book for Packt. I've contributed to impactful projects and I'm excited to collaborate with a new team, tackle challenges, and create innovative solutions together. Let's connect! 🚀
 
 Want to know more? <a href="https://jpromano.net">Check out my website</a> or my <a href="http://portfolio.jpromano.net">portfolio here</a>
 
