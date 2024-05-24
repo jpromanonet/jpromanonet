@@ -16,20 +16,21 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 
 ## 📌 Currently working as
 
+:zap: Chief Technology Officer (CTO) at <a href="https://yerba.tech">Yerba Tech</a><br/>
 :zap: Technical Leader at <a href="https://www.oca.com.ar">OCA</a><br/>
-:zap: Chief Technology Officer at <a href="https://yerba.tech">Yerba Tech</a><br/>
-:zap: Journalist at <a href="https://www.enfoquedenegocios.com.ar/author/juanpablo-romano/">ENE - Enfoque de Negocios</a><br/>
+:zap: Author at <a href="https://www.packtpub.com/">Packt</a><br/>
 
 ## 🆓 Open Source projects I'm currently working on
 
 :zap: Chief Coordinator at <a href="https://ututo.ar">Ututo</a><br/>
-:zap: Contributing Writer at <a href="https://www.freecodecamp.org/news/author/jpromanonet">FreeCodeCamp</a><br/>
 
 ## ✍️ Blogs I'm currently writing
 
 :zap: <a href="https://jpromanonet.medium.com">Medium</a><br/>
+:zap: <a href="https://www.freecodecamp.org/news/author/jpromanonet">FreeCodeCamp</a><br/>
 :zap: <a href="https://blog.ututo.ar">Ututo's Blog</a><br/>
 :zap: <a href="http://hackandmate.com.ar">Hack & Mate</a><br/>
+:zap: <a href="https://www.enfoquedenegocios.com.ar/author/juanpablo-romano/">ENE - Enfoque de Negocios</a><br/>
 
 ## 🏆 My github rank in Argentina?
 :zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
