@@ -6,29 +6,31 @@
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/jpromanonet)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
 
-👋 Hello! I'm Juan, a software engineer, writer, teacher and leader with experience as a former CTO of two companies. My goal is to drive team success by creating innovative solutions. 💻
+👋 Hey there! I'm Juan, a software engineer and leader currently serving as the CTO of <a href="https://yerba.tech">Yerba Tech</a>.💻
 
-With expertise in Java, Python (including Django), C++, and JavaScript (Node, React, Angular, Vue), I have the ability to generate creative ideas and optimize challenging projects. ⚙️
+With expertise in Java, Python (including Django), C++, and JavaScript (Node, React, Angular, Vue), I excel at generating creative ideas and optimizing challenging projects. ⚙️
 
-I've contributed to impactful projects and I'm excited to join a new team, take on challenges, and create solutions together. Let's chat! 🚀
+In addition to my role as CTO, I'm also the Chief Coordinator of <a href="https://ututo.ar">Ututo Linux</a> and Tech Lead in <a href="https://www.oca.com.ar">OCA</a>. Furthermore, I'm currently authoring a book for <a href="https://www.packtpub.com/">Packt</a>. I've contributed to impactful projects and I'm excited to collaborate with a new team, tackle challenges, and create innovative solutions together. Let's connect! 🚀
 
 Want to know more? <a href="https://jpromano.net">Check out my website</a> or my <a href="http://portfolio.jpromano.net">portfolio here</a>
 
 ## 📌 Currently working as
 
+:zap: Chief Technology Officer (CTO) at <a href="https://yerba.tech">Yerba Tech</a><br/>
 :zap: Technical Leader at <a href="https://www.oca.com.ar">OCA</a><br/>
-:zap: Chief Technology Officer at <a href="https://yerba.tech">Yerba Tech</a><br/>
-:zap: Journalist at <a href="https://www.enfoquedenegocios.com.ar/author/juanpablo-romano/">ENE - Enfoque de Negocios</a><br/>
+:zap: Author at <a href="https://www.packtpub.com/">Packt</a><br/>
 
 ## 🆓 Open Source projects I'm currently working on
 
 :zap: Chief Coordinator at <a href="https://ututo.ar">Ututo</a><br/>
-:zap: Contributing Writer at <a href="https://www.freecodecamp.org/news/author/jpromanonet">FreeCodeCamp</a><br/>
 
 ## ✍️ Blogs I'm currently writing
 
-:zap: <a href="https://divulgadoresporhobby.com.ar">Divulgadores por Hobby</a><br/>
+:zap: <a href="https://jpromanonet.medium.com">Medium</a><br/>
+:zap: <a href="https://www.freecodecamp.org/news/author/jpromanonet">FreeCodeCamp</a><br/>
+:zap: <a href="https://blog.ututo.ar">Ututo's Blog</a><br/>
 :zap: <a href="http://hackandmate.com.ar">Hack & Mate</a><br/>
+:zap: <a href="https://www.enfoquedenegocios.com.ar/author/juanpablo-romano/">ENE - Enfoque de Negocios</a><br/>
 
 ## 🏆 My github rank in Argentina?
 :zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
@@ -36,11 +38,11 @@ Want to know more? <a href="https://jpromano.net">Check out my website</a> or my
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Pong and Python: A Perfect Match for Beginner Game Developers](https://divulgadoresporhobby.com.ar/es_es/pong-and-python-a-perfect-match-for-beginner-game-developers/)
-- [The Pitfalls of Over Engineering: How complexity can undermine success](https://divulgadoresporhobby.com.ar/es_es/the-pitfalls-of-over-engineering-how-complexity-can-undermine-success/)
-- [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com.ar/es_es/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
-- [Semana 21 [2023] | Resumen](https://divulgadoresporhobby.com.ar/es_es/semana-21-2023-resumen/)
-- [Semana 20 [2023] | Resumen](https://divulgadoresporhobby.com.ar/es_es/semana-20-2023-resumen/)
+- [Mathematics in Game Design: Building Worlds with Numbers](https://divulgadoresporhobby.com.ar/mathematics-in-game-design-building-worlds-with-numbers/)
+- [Visualizing Fibonacci: mathematical patterns and infinite harmony](https://divulgadoresporhobby.com.ar/visualizing-fibonacci-mathematical-patterns-and-infinite-harmony/)
+- [Pong and Python: A Perfect Match for Beginner Game Developers](https://divulgadoresporhobby.com.ar/pong-and-python-a-perfect-match-for-beginner-game-developers/)
+- [The Pitfalls of Over Engineering: How complexity can undermine success](https://divulgadoresporhobby.com.ar/the-pitfalls-of-over-engineering-how-complexity-can-undermine-success/)
+- [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com.ar/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
