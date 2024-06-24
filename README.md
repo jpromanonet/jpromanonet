@@ -12,7 +12,7 @@ With expertise in Java, Python (including Django), C++, and JavaScript (Node, Re
 
 In addition to my role as CTO, I'm also the Chief Coordinator of <a href="https://ututo.ar">Ututo Linux</a> and Tech Lead in <a href="https://www.oca.com.ar">OCA</a>. Furthermore, I'm currently authoring a book for <a href="https://www.packtpub.com/">Packt</a>. I've contributed to impactful projects and I'm excited to collaborate with a new team, tackle challenges, and create innovative solutions together. Let's connect!🚀
 
-Want to know more? <a href="https://jpromano.net">Check out my website</a> or my <a href="http://portfolio.jpromano.net">portfolio here</a>
+Want to know more? <a href="https://jpromanonet.vercel.app">Check out my website</a> or my <a href="https://jpromanonet-portfolio.vercel.app/">portfolio here</a>
 
 ## 📌 Currently working as
 
