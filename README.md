@@ -6,19 +6,15 @@
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/jpromanonet)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
 
-👋 Hey there! I'm Juan, a software engineer and leader currently serving as the CTO of <a href="https://yerba.tech">Yerba Tech</a>.💻
+👋 Hey there! I'm Juan, a software engineer with expertise in Java, Python (including Django), C++, and JavaScript (Node, React, Angular, Vue), I excel at generating creative ideas and optimizing challenging projects.⚙️
 
-With expertise in Java, Python (including Django), C++, and JavaScript (Node, React, Angular, Vue), I excel at generating creative ideas and optimizing challenging projects.⚙️
-
-In addition to my role as CTO, I'm also the Chief Coordinator of <a href="https://ututo.ar">Ututo Linux</a> and Tech Lead in <a href="https://www.oca.com.ar">OCA</a>. Furthermore, I'm currently authoring a book for <a href="https://www.packtpub.com/">Packt</a>. I've contributed to impactful projects and I'm excited to collaborate with a new team, tackle challenges, and create innovative solutions together. Let's connect!🚀
+I'm also the Chief Coordinator of <a href="https://ututo.ar">Ututo Linux</a> and Tech Lead in <a href="https://www.oca.com.ar">OCA</a>. I've contributed to impactful projects and I'm excited to collaborate with a new team, tackle challenges, and create innovative solutions together. Let's connect!🚀
 
 Want to know more? <a href="https://jpromanonet.vercel.app">Check out my website</a> or my <a href="https://jpromanonet-portfolio.vercel.app/">portfolio here</a>
 
 ## 📌 Currently working as
 
-:zap: Chief Technology Officer (CTO) at <a href="https://yerba.tech">Yerba Tech</a><br/>
 :zap: Technical Leader at <a href="https://www.oca.com.ar">OCA</a><br/>
-:zap: Author at <a href="https://www.packtpub.com/">Packt</a><br/>
 
 ## 🆓 Open Source projects I'm currently working on
 
@@ -29,8 +25,6 @@ Want to know more? <a href="https://jpromanonet.vercel.app">Check out my website
 :zap: <a href="https://jpromanonet.medium.com">Medium</a><br/>
 :zap: <a href="https://www.freecodecamp.org/news/author/jpromanonet">FreeCodeCamp</a><br/>
 :zap: <a href="https://blog.ututo.ar">Ututo's Blog</a><br/>
-:zap: <a href="http://hackandmate.com.ar">Hack & Mate</a><br/>
-:zap: <a href="https://www.enfoquedenegocios.com.ar/author/juanpablo-romano/">ENE - Enfoque de Negocios</a><br/>
 
 ## 🏆 My github rank in Argentina?
 :zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
