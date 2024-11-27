@@ -111,9 +111,7 @@ Want to know more? <a href="https://jpromanonet.vercel.app">Check out my website
   <img width="70%"src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
 <p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=jpromanonet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark">
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=jpromanonet&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
