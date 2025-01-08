@@ -104,7 +104,9 @@ Want to know more? <a href="https://jpromanonet.net">Check out my website</a> or
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
 
 <p align="center">
-  <img width="70%"src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
+  
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jpromanonet&theme=dark&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats)
+
 <p>
 
 <div align="center">
