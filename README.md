@@ -32,11 +32,7 @@ Want to know more? <a href="https://jpromanonet.net">Check out my website</a> or
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mathematics in Game Design: Building Worlds with Numbers](https://divulgadoresporhobby.com.ar/mathematics-in-game-design-building-worlds-with-numbers/)
-- [Visualizing Fibonacci: mathematical patterns and infinite harmony](https://divulgadoresporhobby.com.ar/visualizing-fibonacci-mathematical-patterns-and-infinite-harmony/)
-- [Pong and Python: A Perfect Match for Beginner Game Developers](https://divulgadoresporhobby.com.ar/pong-and-python-a-perfect-match-for-beginner-game-developers/)
-- [The Pitfalls of Over Engineering: How complexity can undermine success](https://divulgadoresporhobby.com.ar/the-pitfalls-of-over-engineering-how-complexity-can-undermine-success/)
-- [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com.ar/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
