@@ -121,10 +121,5 @@ Want to know more? <a href="https://jpromanonet.net">Check out my website</a> or
   </div>
 
 <hr>
- 
-  <div align="center">
-    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=yrv14uj4h5heji4xypkefgenf">
-  </div>
-<hr>
 
 <p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
