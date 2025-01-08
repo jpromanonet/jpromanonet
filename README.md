@@ -32,7 +32,7 @@ Want to know more? <a href="https://jpromanonet.net">Check out my website</a> or
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
+- [¡Hola mundo!](https://jpromano.net/hola-mundo/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
