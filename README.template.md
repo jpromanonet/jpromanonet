@@ -6,19 +6,15 @@
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/jpromanonet)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
 
-👋 Hey there! I'm Juan, a software engineer and leader currently serving as the CTO of <a href="https://yerba.tech">Yerba Tech</a>.💻
+👋 Hey there! I'm Juan, a software engineer with expertise in Java, Python (including Django), C++, and JavaScript (Node, React, Angular, Vue), I excel at generating creative ideas and optimizing challenging projects.⚙️
 
-With expertise in Java, Python (including Django), C++, and JavaScript (Node, React, Angular, Vue), I excel at generating creative ideas and optimizing challenging projects.⚙️
+I'm also the Chief Coordinator of <a href="https://ututo.ar">Ututo Linux</a> and Tech Lead in <a href="https://www.oca.com.ar">OCA</a>. I've contributed to impactful projects and I'm excited to collaborate with a new team, tackle challenges, and create innovative solutions together. Let's connect!🚀
 
-In addition to my role as CTO, I'm also the Chief Coordinator of <a href="https://ututo.ar">Ututo Linux</a> and Tech Lead in <a href="https://www.oca.com.ar">OCA</a>. Furthermore, I'm currently authoring a book for <a href="https://www.packtpub.com/">Packt</a>. I've contributed to impactful projects and I'm excited to collaborate with a new team, tackle challenges, and create innovative solutions together. Let's connect!🚀
-
-Want to know more? <a href="https://jpromanonet.vercel.app">Check out my website</a> or my <a href="https://jpromanonet-portfolio.vercel.app/">portfolio here</a>
+Want to know more? <a href="https://jpromanonet.net">Check out my website</a> or my <a href="https://portfolio.jpromano.net">portfolio here</a>
 
 ## 📌 Currently working as
 
-:zap: Chief Technology Officer (CTO) at <a href="https://yerba.tech">Yerba Tech</a><br/>
 :zap: Technical Leader at <a href="https://www.oca.com.ar">OCA</a><br/>
-:zap: Author at <a href="https://www.packtpub.com/">Packt</a><br/>
 
 ## 🆓 Open Source projects I'm currently working on
 
@@ -29,8 +25,6 @@ Want to know more? <a href="https://jpromanonet.vercel.app">Check out my website
 :zap: <a href="https://jpromanonet.medium.com">Medium</a><br/>
 :zap: <a href="https://www.freecodecamp.org/news/author/jpromanonet">FreeCodeCamp</a><br/>
 :zap: <a href="https://blog.ututo.ar">Ututo's Blog</a><br/>
-:zap: <a href="http://hackandmate.com.ar">Hack & Mate</a><br/>
-:zap: <a href="https://www.enfoquedenegocios.com.ar/author/juanpablo-romano/">ENE - Enfoque de Negocios</a><br/>
 
 ## 🏆 My github rank in Argentina?
 :zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
@@ -38,11 +32,7 @@ Want to know more? <a href="https://jpromanonet.vercel.app">Check out my website
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Mathematics in Game Design: Building Worlds with Numbers](https://divulgadoresporhobby.com.ar/mathematics-in-game-design-building-worlds-with-numbers/)
-- [Visualizing Fibonacci: mathematical patterns and infinite harmony](https://divulgadoresporhobby.com.ar/visualizing-fibonacci-mathematical-patterns-and-infinite-harmony/)
-- [Pong and Python: A Perfect Match for Beginner Game Developers](https://divulgadoresporhobby.com.ar/pong-and-python-a-perfect-match-for-beginner-game-developers/)
-- [The Pitfalls of Over Engineering: How complexity can undermine success](https://divulgadoresporhobby.com.ar/the-pitfalls-of-over-engineering-how-complexity-can-undermine-success/)
-- [Creando una API en AWS con DynamoDB, Lambdas y API Manager](https://divulgadoresporhobby.com.ar/creando-una-api-en-aws-con-dynamodb-lambdas-y-api-manager/)
+
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
@@ -117,10 +107,6 @@ Want to know more? <a href="https://jpromanonet.vercel.app">Check out my website
   <img width="70%"src="https://github-readme-streak-stats.herokuapp.com/?user=jpromanonet&theme=dark" />
 <p>
 
-<p align="center">
-  <img width="70%" src="https://github-readme-stats.vercel.app/api?username=jpromanonet&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=dark">
-</p>
-
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jpromanonet&theme=matrix&column=4&no-frame=true" alt="Jpromanonet Profile Trophies" />
@@ -134,11 +120,6 @@ Want to know more? <a href="https://jpromanonet.vercel.app">Check out my website
     <img alt="visitors counter" src="https://profile-counter.glitch.me/jpromanonet/count.svg">
   </div>
 
-<hr>
- 
-  <div align="center">
-    <img alt="Spotify" src="https://spotify-recently-played-readme.vercel.app/api?user=yrv14uj4h5heji4xypkefgenf">
-  </div>
 <hr>
 
 <p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
