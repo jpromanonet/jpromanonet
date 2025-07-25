@@ -92,20 +92,13 @@ Want to know more? <a href="https://jpromanonet.net">Check out my website</a> or
     <img src="https://github-profile-trophy.vercel.app/?username=jpromanonet&theme=matrix&column=4&no-frame=true" alt="Jpromanonet Profile Trophies" />
   </a>
 </div>
-<br>
-<p align="center">:round_pushpin: Profile visitors</p>
-   
-  <div align="center">
-    <a href="https://github.com/jpromanonet">
-    <img alt="visitors counter" src="https://profile-counter.glitch.me/jpromanonet/count.svg">
-  </div>
 
 <hr>
-<p align="center">
+<center>
   
   [![GitHub Streak](https://streak-stats.demolab.com?user=jpromanonet&theme=dark)](https://git.io/streak-stats)
-  
-</p>
+
+</center>
 <hr>
 
 <p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
