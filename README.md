@@ -91,10 +91,10 @@ Want to know more? <a href="https://jpromanonet.net">Check out my website</a> or
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=jpromanonet&theme=matrix&column=4&no-frame=true" alt="Jpromanonet Profile Trophies" />
   </a>
+  <br>
+  <br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jpromanonet&theme=dark" alt="GitHub Streak" /></a>
 </div>
-
-<hr>
-<center><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jpromanonet&theme=dark" alt="GitHub Streak" /></a></center>
 <hr>
 
 <p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
