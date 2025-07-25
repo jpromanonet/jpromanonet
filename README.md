@@ -8,32 +8,16 @@
 
 👋 Hey there! I'm Juan, a software engineer with expertise in Java, Python (including Django), C++, and JavaScript (Node, React, Angular, Vue), I excel at generating creative ideas and optimizing challenging projects.⚙️
 
-I'm also the Chief Coordinator of <a href="https://ututo.ar">Ututo Linux</a> and Tech Lead in <a href="https://www.oca.com.ar">OCA</a>. I've contributed to impactful projects and I'm excited to collaborate with a new team, tackle challenges, and create innovative solutions together. Let's connect!🚀
+I'm also a Tech Lead in <a href="https://www.oca.com.ar">OCA</a>. I've contributed to impactful projects and I'm excited to collaborate with a new team, tackle challenges, and create innovative solutions together. Let's connect!🚀
 
-Want to know more? <a href="https://jpromanonet.net">Check out my website</a> or my <a href="https://portfolio.jpromano.net">portfolio here</a>
+Want to know more? <a href="https://jpromanonet.net">Check out my website</a> or my <a href="https://portfolio-jpromanonet.vercel.app/">portfolio here</a>
 
 ## 📌 Currently working as
 
 :zap: Technical Leader at <a href="https://www.oca.com.ar">OCA</a><br/>
 
-## 🆓 Open Source projects I'm currently working on
-
-:zap: Chief Coordinator at <a href="https://ututo.ar">Ututo</a><br/>
-
-## ✍️ Blogs I'm currently writing
-
-:zap: <a href="https://jpromanonet.medium.com">Medium</a><br/>
-:zap: <a href="https://www.freecodecamp.org/news/author/jpromanonet">FreeCodeCamp</a><br/>
-:zap: <a href="https://blog.ututo.ar">Ututo's Blog</a><br/>
-
 ## 🏆 My github rank in Argentina?
 :zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [¡Hola mundo!](https://jpromano.net/hola-mundo/)
-<!-- BLOG-POST-LIST:END -->
 
 ## 💼 Skills
 
@@ -115,6 +99,10 @@ Want to know more? <a href="https://jpromanonet.net">Check out my website</a> or
     <a href="https://github.com/jpromanonet">
     <img alt="visitors counter" src="https://profile-counter.glitch.me/jpromanonet/count.svg">
   </div>
+
+<hr>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=jpromanonet&theme=dark)](https://git.io/streak-stats)
 
 <hr>
 
