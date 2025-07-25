@@ -94,11 +94,7 @@ Want to know more? <a href="https://jpromanonet.net">Check out my website</a> or
 </div>
 
 <hr>
-<center>
-  
-  [![GitHub Streak](https://streak-stats.demolab.com?user=jpromanonet&theme=dark)](https://git.io/streak-stats)
-
-</center>
+<center><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jpromanonet&theme=dark" alt="GitHub Streak" /></a></center>
 <hr>
 
 <p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
