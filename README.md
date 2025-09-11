@@ -14,7 +14,7 @@ Want to know more? <a href="https://jpromanonet.net">Check out my website</a> or
 
 ## 📌 Currently working as
 
-:zap: Technical Leader at <a href="https://www.oca.com.ar">OCA</a><br/>
+:zap: Technical Leader at <a href="https://hybridbeetechnology.com/">Hybrid Bee Technology</a><br/>
 
 ## 🏆 My github rank in Argentina?
 :zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
