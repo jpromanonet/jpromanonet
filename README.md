@@ -8,13 +8,13 @@
 
 👋 Hey there! I'm Juan, a software engineer with expertise in Java, Python (including Django), C++, and JavaScript (Node, React, Angular, Vue), I excel at generating creative ideas and optimizing challenging projects.⚙️
 
-I'm also a Tech Lead in <a href="https://www.oca.com.ar">OCA</a>. I've contributed to impactful projects and I'm excited to collaborate with a new team, tackle challenges, and create innovative solutions together. Let's connect!🚀
+I'm also an Engineering Manager at <a href="https://hybridbeetechnology.com/">Hybrid Bee Technology</a>. I've contributed to impactful projects and I'm excited to collaborate with a new team, tackle challenges, and create innovative solutions together. Let's connect!🚀
 
 Want to know more? <a href="https://jpromanonet.net">Check out my website</a> or my <a href="https://portfolio-jpromanonet.vercel.app/">portfolio here</a>
 
 ## 📌 Currently working as
 
-:zap: Technical Leader at <a href="https://hybridbeetechnology.com/">Hybrid Bee Technology</a><br/>
+:zap: Engineering Manager at <a href="https://hybridbeetechnology.com/">Hybrid Bee Technology</a><br/>
 
 ## 🏆 My github rank in Argentina?
 :zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
