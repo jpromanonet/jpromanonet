@@ -10,7 +10,7 @@
 
 I'm also an Engineering Manager at <a href="https://hybridbeetechnology.com/">Hybrid Bee Technology</a>. I've contributed to impactful projects and I'm excited to collaborate with a new team, tackle challenges, and create innovative solutions together. Let's connect!🚀
 
-Want to know more? <a href="https://jpromanonet.net">Check out my website</a> or my <a href="https://portfolio-jpromanonet.vercel.app/">portfolio here</a>
+Want to know more? <a href="https://jpromano.net">Check out my website</a> or my <a href="https://jpromano.net/portfolio/">portfolio here</a>
 
 ## 📌 Currently working as
 
