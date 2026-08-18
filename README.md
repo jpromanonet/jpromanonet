@@ -99,7 +99,7 @@ I've spent more than a decade working across code, architecture, infrastructure,
 
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jpromanonet&theme=dark" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=jpromanonet&theme=dark" alt="GitHub Streak" />
 </div>
 <hr>
 
