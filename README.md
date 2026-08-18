@@ -100,11 +100,6 @@ I've spent more than a decade working across code, architecture, infrastructure,
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpromanonet&bg_color=000000&text_color=FFFFFF&title_color=159E4A&langs_count=10&card_width=1000&layout=compact)](https://github.com/jpromanonet/github-readme-stats)
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=jpromanonet&theme=matrix&column=4&no-frame=true" alt="Jpromanonet Profile Trophies" />
-  </a>
-  <br>
-  <br>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=jpromanonet&theme=dark" alt="GitHub Streak" /></a>
 </div>
 <hr>
