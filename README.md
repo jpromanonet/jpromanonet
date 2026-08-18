@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/github-profile-cover.png"
+  <img src="./assets/images/github-profile-cover.png"
        alt="Pixel-art workspace representing software, architecture, writing and ambitious projects"
        width="100%">
 </p>
