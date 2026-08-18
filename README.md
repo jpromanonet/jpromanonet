@@ -1,4 +1,8 @@
-<img src="./assets/images/cover.png"/>
+<p align="center">
+  <img src="./assets/github-profile-cover.png"
+       alt="Pixel-art workspace representing software, architecture, writing and ambitious projects"
+       width="100%">
+</p>
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/jpromanonet)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/jpromanonet/)
@@ -6,11 +10,19 @@
 [![Linktree Badge](https://img.shields.io/badge/Linktree-Profile-informational?style=flat&logo=linktree&logoColor=white&color=0D76A8)](https://linktr.ee/jpromanonet)
 [![Wakatime Badge](https://wakatime.com/badge/user/fc26cab3-6e59-45b5-8005-1a093d31f6b1.svg)](https://wakatime.com/@fc26cab3-6e59-45b5-8005-1a093d31f6b1)
 
-👋 Hey there! I'm Juan, a software engineer with expertise in Java, Python (including Django), C++, and JavaScript (Node, React, Angular, Vue), I excel at generating creative ideas and optimizing challenging projects.⚙️
+# 👋 Hi, I'm Juan
 
-I'm also an Engineering Manager at <a href="https://hybridbeetechnology.com/">Hybrid Bee Technology</a>. I've contributed to impactful projects and I'm excited to collaborate with a new team, tackle challenges, and create innovative solutions together. Let's connect!🚀
+### 💻 I build software, lead teams, write things down, and keep starting overly ambitious projects.
 
-Want to know more? <a href="https://jpromano.net">Check out my website</a> or my <a href="https://jpromano.net/portfolio/">portfolio here</a>
+I've spent more than a decade working across code, architecture, infrastructure, products, and people. I enjoy taking difficult systems apart, understanding how they behave, and rebuilding them into something clearer, more reliable, and easier to evolve.
+
+* 🛠️ **I build with:** Java, Python/Django, C++, JavaScript/TypeScript, Node.js, React, Angular, and Vue.
+* 🐧 **Beyond application code:** Linux, cloud infrastructure, containers, DevOps, observability, platforms, and open-source software.
+* 🧭 **I care about:** technical leadership, sound decisions, honest trade-offs, and helping teams move forward.
+* ✍️ **I write about:** technology, engineering leadership, what I learn while building, and fiction about time, identity, and impossible systems.
+* 🧉 **Usually nearby:** several active projects, too many books, and a mate.
+
+🌐 [Website](https://jpromano.net) · 🧰 [Portfolio](https://jpromano.net/portfolio/) 
 
 ## 📌 Currently working as
 
