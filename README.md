@@ -97,10 +97,6 @@ I've spent more than a decade working across code, architecture, infrastructure,
 
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=jpromanonet&theme=dark" alt="GitHub Streak" />
-</div>
 <hr>
 
 <p align="center">🧉 <b>Fun fact: I'm always drinking <a href="https://en.wikipedia.org/wiki/Mate_(drink)">mate!</a></b> 🧉</p>
