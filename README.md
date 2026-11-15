@@ -27,6 +27,7 @@ I've spent more than a decade working across code, architecture, infrastructure,
 ## 📌 Currently working as
 
 :zap: Engineering Manager at <a href="https://hybridbeetechnology.com/">Hybrid Bee Technology</a><br/>
+:zap: CEO at <a href="https://soupit.ar/">Soup IT</a><br/>
 
 ## 🏆 My github rank in Argentina?
 :zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
