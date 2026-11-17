@@ -29,6 +29,17 @@ I've spent more than a decade working across code, architecture, infrastructure,
 :zap: Engineering Manager at <a href="https://hybridbeetechnology.com/">Hybrid Bee Technology</a><br/>
 :zap: CEO at <a href="https://soupit.ar/">Soup IT</a><br/>
 
+## 🌍 Maintainer
+
+I maintain a collection of open-source educational projects focused on making language learning accessible, free, and available to everyone.
+
+| Project | Language | Website | Repository |
+|---|---|---|---|
+| 🇵🇾 Aprendiendo Guaraní | Guaraní | [Website](https://guarani.jpromano.net/) | [GitHub](https://github.com/jpromanonet/aprendiendoguarani) |
+| 🇮🇹 Aprendiendo Italiano | Italian | [Website](https://italiano.jpromano.net/) | [GitHub](https://github.com/jpromanonet/aprendiendoitaliano) |
+| 🇨🇳 Aprendiendo Mandarín | Mandarin Chinese | [Website](https://mandarin.jpromano.net/) | [GitHub](https://github.com/jpromanonet/aprendiendomandarin) |
+| 🇧🇷 Aprendiendo Portugués | Portuguese | [Website](https://portugues.jpromano.net/) | [GitHub](https://github.com/jpromanonet/aprendiendoportugues) |
+
 ## 🏆 My github rank in Argentina?
 :zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
 
