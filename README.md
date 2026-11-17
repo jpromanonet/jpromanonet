@@ -35,10 +35,10 @@ I maintain a collection of open-source educational projects focused on making la
 
 | Project | Language | Website | Repository |
 | :--- | :--- | :---: | :---: |
-| 🇵🇾 Aprendiendo Guaraní | Guaraní | [![Website](https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white)](https://guarani.jpromano.net/) | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/jpromanonet/aprendiendoguarani) |
-| 🇮🇹 Aprendiendo Italiano | Italian | [![Website](https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white)](https://italiano.jpromano.net/) | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/jpromanonet/aprendiendoitaliano) |
-| 🇨🇳 Aprendiendo Mandarín | Mandarin Chinese | [![Website](https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white)](https://mandarin.jpromano.net/) | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/jpromanonet/aprendiendomandarin) |
-| 🇧🇷 Aprendiendo Portugués | Portuguese | [![Website](https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white)](https://portugues.jpromano.net/) | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/jpromanonet/aprendiendoportugues) |
+| 🇵🇾 Learning Guaraní | Guaraní | [![Website](https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white)](https://guarani.jpromano.net/) | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/jpromanonet/aprendiendoguarani) |
+| 🇮🇹 Learning Italian | Italian | [![Website](https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white)](https://italiano.jpromano.net/) | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/jpromanonet/aprendiendoitaliano) |
+| 🇨🇳 Learning Mandarín Chinese | Mandarin Chinese | [![Website](https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white)](https://mandarin.jpromano.net/) | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/jpromanonet/aprendiendomandarin) |
+| 🇧🇷 Learning Portuguese | Portuguese | [![Website](https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white)](https://portugues.jpromano.net/) | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/jpromanonet/aprendiendoportugues) |
 
 ## 🏆 My github rank in Argentina?
 :zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
