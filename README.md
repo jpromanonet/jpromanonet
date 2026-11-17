@@ -33,74 +33,12 @@ I've spent more than a decade working across code, architecture, infrastructure,
 
 I maintain a collection of open-source educational projects focused on making language learning accessible, free, and available to everyone.
 
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="40%" align="left">Project</th>
-      <th width="25%" align="left">Language</th>
-      <th width="17.5%" align="center">Website</th>
-      <th width="17.5%" align="center">Repository</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>🇵🇾 Aprendiendo Guaraní</td>
-      <td>Guaraní</td>
-      <td align="center">
-        <a href="https://guarani.jpromano.net/">
-          <img src="https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white" alt="Website">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/jpromanonet/aprendiendoguarani">
-          <img src="https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>🇮🇹 Aprendiendo Italiano</td>
-      <td>Italian</td>
-      <td align="center">
-        <a href="https://italiano.jpromano.net/">
-          <img src="https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white" alt="Website">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/jpromanonet/aprendiendoitaliano">
-          <img src="https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>🇨🇳 Aprendiendo Mandarín</td>
-      <td>Mandarin Chinese</td>
-      <td align="center">
-        <a href="https://mandarin.jpromano.net/">
-          <img src="https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white" alt="Website">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/jpromanonet/aprendiendomandarin">
-          <img src="https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>🇧🇷 Aprendiendo Portugués</td>
-      <td>Portuguese</td>
-      <td align="center">
-        <a href="https://portugues.jpromano.net/">
-          <img src="https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white" alt="Website">
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/jpromanonet/aprendiendoportugues">
-          <img src="https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white" alt="GitHub">
-        </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
+| Project | Language | Website | Repository |
+| :--- | :--- | :---: | :---: |
+| 🇵🇾 Aprendiendo Guaraní | Guaraní | [![Website](https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white)](https://guarani.jpromano.net/) | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/jpromanonet/aprendiendoguarani) |
+| 🇮🇹 Aprendiendo Italiano | Italian | [![Website](https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white)](https://italiano.jpromano.net/) | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/jpromanonet/aprendiendoitaliano) |
+| 🇨🇳 Aprendiendo Mandarín | Mandarin Chinese | [![Website](https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white)](https://mandarin.jpromano.net/) | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/jpromanonet/aprendiendomandarin) |
+| 🇧🇷 Aprendiendo Portugués | Portuguese | [![Website](https://img.shields.io/badge/Website-0D76A8?style=flat&logo=googlechrome&logoColor=white)](https://portugues.jpromano.net/) | [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/jpromanonet/aprendiendoportugues) |
 
 ## 🏆 My github rank in Argentina?
 :zap: [![Github Rank](https://user-badge.committers.top/argentina_private/jpromanonet.svg)](https://user-badge.committers.top/argentina_private/jpromanonet)
