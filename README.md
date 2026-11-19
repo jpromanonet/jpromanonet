@@ -28,6 +28,7 @@ I've spent more than a decade working across code, architecture, infrastructure,
 
 :zap: Engineering Manager at <a href="https://hybridbeetechnology.com/">Hybrid Bee Technology</a><br/>
 :zap: CEO at <a href="https://soupit.ar/">Soup IT</a><br/>
+:zap: Game Master at <a href="https://www.conexionberlin.com/">Conexión Berlin</a><br/>
 
 ## 🌍 Currently maintaining
 
